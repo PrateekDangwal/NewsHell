@@ -1,0 +1,1991 @@
+{
+  "responses": [
+    {
+      "status": "ok",
+      "totalResults": 2642,
+      "articles": [
+        {
+          "source": {
+            "id": "wired",
+            "name": "Wired"
+          },
+          "author": "Aarian Marshall",
+          "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
+          "description": "A Nevada event aimed at a niche audience of fleet managers could mark a milestone in clean transportation.",
+          "url": "https://www.wired.com/story/tesla-semi/",
+          "urlToImage": "https://media.wired.com/photos/6ab5900b23be476ee22f9e66/191:100/w_1280,c_limit/GettyImages-2274878284.jpg",
+          "publishedAt": "2026-09-25T09:15:00Z",
+          "content": "Tesla CEO Elon Musk has insisted investors think of his electric automaker as a robotics and autonomous vehicle company now. Hes targeted a $20 trillion valuationnearly four times the value of market… [+4016 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "Reuters",
+          "title": "Tata dispute sends India Inc scrambling to shore up shareholder rights",
+          "description": "A boardroom dispute at Tata Sons is prompting founders, strategic investors and private equity firms across India to review shareholder agreements and governance clauses, lawyers and directors said. The concern is whether a company board can override a majori…",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-dispute-sends-india-inc-scrambling-to-shore-up-shareholder-rights/articleshow/134480441.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134480497,width-1200,height-630,imgsize-5113544,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-25T08:59:50Z",
+          "content": "A boardroom rupture at India's Tata Sons, where the controlling charity arm says it is unable to assert its rights, is rippling across India Inc, with founders and investors studying the fine print o… [+4259 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Business Standard"
+          },
+          "author": "Reuters",
+          "title": "Tata dispute sends India Inc scrambling to shore up shareholder rights",
+          "description": "Tata's governance clash is raising the alarm among Indian companies about how far a board can go to overrule a majority shareholder",
+          "url": "https://www.business-standard.com/industry/news/tata-dispute-sends-india-inc-scrambling-to-shore-up-shareholder-rights-126092500604_1.html",
+          "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/23/thumb/fitandfill/1200X628/1790150545-866.jpg",
+          "publishedAt": "2026-09-25T08:59:10Z",
+          "content": "A boardroom rupture at India's Tata Sons, where the controlling charity arm says it is unable to assert its rights, is rippling across India Inc, with founders and investors studying the fine print o… [+4226 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Protothema.gr"
+          },
+          "author": "Αλεξία Αμβράζη",
+          "title": "White House state dinner for China’s President Xi puts America’s tech titans centre stage",
+          "description": "US President Donald Trump gathered a remarkable share of the world’s technological and financial might in the East Room of the White House on Thursday evening, hosting a state dinner in honour of Chinese President Xi Jinping as the contest between the two sup…",
+          "url": "https://en.protothema.gr/2026/09/25/white-house-state-dinner-for-chinas-president-xi-puts-americas-tech-titans-centre-stage/",
+          "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/09/trump_xrm.webp",
+          "publishedAt": "2026-09-25T08:52:10Z",
+          "content": "US President Donald Trump gathered a remarkable share of the world’s technological and financial might in the East Room of the White House on Thursday evening, hosting a state dinner in honour of Chi… [+14128 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Perkin Amalaraj",
+          "title": "Moment China's President Xi bursts into laughter as Trump shows him mocking 'autopen' portrait of Biden",
+          "description": "Chinese president Xi Jinping burst into laughter after Donald Trump showed him a mocking 'portrait' of Joe Biden.",
+          "url": "https://www.dailymail.com/news/article-16159585/Xi-Jinping-Trump-Joe-Biden-autopen-China-US.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/25/08/111463377-0-image-m-123_1790322702959.jpg",
+          "publishedAt": "2026-09-25T08:04:23Z",
+          "content": "Chinese president Xi Jinping burst into laughter after Donald Trump showed him a mocking 'portrait' of Joe Biden. \r\nPresident Xi landed in Washington DC on Thursday for talks between the two superpow… [+7511 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Crypto Briefing"
+          },
+          "author": "Diego Almada Lopez",
+          "title": "Elon Musk details expansion plans for Memphis AI cluster, targeting over 1 million GPUs",
+          "description": "The expansion of the Memphis AI cluster could significantly impact energy infrastructure demands and regional economic growth dynamics.\nThe post Elon Musk details expansion plans for Memphis AI cluster, targeting over 1 million GPUs appeared first on Crypto B…",
+          "url": "https://cryptobriefing.com/musk-memphis-colossus-ai-cluster-expansion/",
+          "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/25035909/library-elon-musk-details-expansion-plans-for-memphis-ai-cluster-800x450.png",
+          "publishedAt": "2026-09-25T07:59:13Z",
+          "content": "The Colossus 2 facility aims to more than double its Nvidia chip count by year-end, with Google already locked into a $920 million monthly contract for compute access. Elon Musk laid out a concrete t… [+1909 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Stephen M. Lepore, Elina Shirazi",
+          "title": "Inside Trump's glitzy state dinner with China's Xi attended by tech titans and DC's elite as details emerge about talks between two world leaders",
+          "description": "The two world powers remain divided on the war in Iran and are still grappling to find common ground on trade and how to best navigate the jarring advances of artificial intelligence.",
+          "url": "https://www.dailymail.com/news/article-16159331/Inside-Donald-Trump-state-dinner-Xi-China.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/25/06/111461983-0-image-a-36_1790313454327.jpg",
+          "publishedAt": "2026-09-25T05:42:25Z",
+          "content": "Donald Trump pulled out all the stops for his glamorous State Dinner with Chinese President Xi Jinping as the two spent much of his visit discussing the toughest issues facing their nations. \r\nThe la… [+10785 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Insurance Journal"
+          },
+          "author": "Admin",
+          "title": "Cybersecurity Stocks Are So Hot Investors Question Staying Power",
+          "description": "Shares of cybersecurity companies have soared in recent months on bets that the threats posed by cutting-edge AI models will be a boon for their businesses. But some of the stocks have run up so much that investors are questioning …",
+          "url": "https://www.insurancejournal.com/news/national/2026/09/25/886798.htm",
+          "urlToImage": "https://www.insurancejournal.com/app/uploads/2023/05/cables-feed-into-server-in-comms-room-bloomberg-scaled.jpg",
+          "publishedAt": "2026-09-25T05:08:21Z",
+          "content": "Shares of cybersecurity companies have soared in recent months on bets that the threats posed by cutting-edge AI models will be a boon for their businesses. But some of the stocks have run up so much… [+5015 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Crypto Briefing"
+          },
+          "author": "Diego Almada Lopez",
+          "title": "Elon Musk says SpaceX could have a Fable or GPT-6 level AI model within months",
+          "description": "SpaceX's rapid AI development could intensify competition, strain resources, and shift industry dynamics, impacting innovation and talent allocation.\nThe post Elon Musk says SpaceX could have a Fable or GPT-6 level AI model within months appeared first on Cry…",
+          "url": "https://cryptobriefing.com/spacex-ai-model-gpt-6-level-musk/",
+          "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+          "publishedAt": "2026-09-25T05:07:38Z",
+          "content": "SpaceX is reallocating engineers from Starlink and Starship to AI, and Musk thinks the company could reach frontier model status by early 2027. Elon Musk is not known for underselling timelines, but … [+1847 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Crypto Briefing"
+          },
+          "author": "Diego Almada Lopez",
+          "title": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
+          "description": "DensityAI's rapid rise highlights the growing demand for specialized AI chips, potentially reshaping the semiconductor industry landscape.\nThe post DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal appeared first on Crypto Brief…",
+          "url": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal/",
+          "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/25005308/library-densityai-nears-10b-valuation-with-hundreds-of-millions--800x450.png",
+          "publishedAt": "2026-09-25T04:53:12Z",
+          "content": "The Tesla Dojo spinoff lands Andreessen Horowitz backing and a conditional chip purchase agreement with Amazon Web Services A startup that barely existed 18 months ago is now worth as much as some pu… [+1978 chars]"
+        },
+        {
+          "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+          },
+          "author": "Katherine Li,Matthew Loh",
+          "title": "The who's who in tech showed up for Trump's glitzy White House dinner with China's leader",
+          "description": "Donald Trump's dinner with China's leader, Xi Jinping, is shaping up to be a gathering of tech's biggest names.",
+          "url": "https://www.businessinsider.com/tech-leaders-join-donald-trump-dinner-with-xi-jinping-2026-9#article",
+          "urlToImage": "https://i.insider.com/6ab5c02ad15f8a572974a6ae?width=1200&format=jpeg",
+          "publishedAt": "2026-09-25T04:40:48Z",
+          "content": "Kevin Dietsch/Getty Images\r\n<ul><li>Donald Trump is hosting China's leader to discuss tariffs, critical minerals, and AI safety.</li><li>The attendees included AMD CEO Lisa Su, OpenAI's Sam Altman, a… [+4880 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "theverge.com",
+          "title": "Here’s the Tesla Semi… again",
+          "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 — nearly a decade after its initial introduction. On Thursday evening, the company held yet another event f…",
+          "url": "https://biztoc.com/x/93899c01632aa30a",
+          "urlToImage": "https://biztoc.com/cdn/93899c01632aa30a_s.webp",
+          "publishedAt": "2026-09-25T04:38:08Z",
+          "content": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 nearly a decade after its initial introduction.… [+152 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Raven Saunt",
+          "title": "Tiffany Trump looks ethereal in flowing golden gown at state dinner for Xi Jinping",
+          "description": "The 32-year-old showcased her sense of style at the black tie gathering at the White House in Washington, DC, on Thursday evening.",
+          "url": "https://www.dailymail.com/lifestyle/fashion/article-16159143/tiffany-trump-gown-state-dinner-xi-jinping-white-house.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/25/05/111459477-0-image-m-18_1790310672334.jpg",
+          "publishedAt": "2026-09-25T04:35:25Z",
+          "content": "Tiffany Trump looked ethereal in a flowing golden gown at the state dinner for Xi Jinping.\r\nThe 32-year-old showcased her sense of style at the black tie gathering at the White House in Washington, D… [+2767 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "ANI",
+          "title": "\"Compute in space will round up to 100%\": Elon Musk backs future of AI compute",
+          "description": "Sharing a video featuring Google's Senior Director, Paradigms of Intelligence Travis Beals, Musk said, \"The amount of compute in space will obviously round up to 100% of all compute.\"",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/compute-in-space-will-round-up-to-100-elon-musk-backs-future-of-ai-compute-as-google-announces-project-suncatcher-test-launch/articleshow/134474871.cms",
+          "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-24180,resizemode-75,msid-134474871/tech/artificial-intelligence/compute-in-space-will-round-up-to-100-elon-musk-backs-future-of-ai-compute-as-google-announces-project-suncatcher-test-launch.jpg",
+          "publishedAt": "2026-09-25T04:10:40Z",
+          "content": "Space X and Tesla boss Elon Musk has made a futuristic prediction about compute claiming that most of it will move into outer space. The prediction came as Google announced Project Suncatcher its 'mo… [+2831 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "ANI",
+          "title": "\"One small step for TPUs\": Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
+          "description": "According to Google, Project Suncatcher is a long-term, research moonshot exploring whether space could one day host scalable machine learning infrastructure.",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space/articleshow/134474714.cms",
+          "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57668,resizemode-75,msid-134474714/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space.jpg",
+          "publishedAt": "2026-09-25T04:05:38Z",
+          "content": "Google on Thursday announced that its Project Suncatcher is scheduled to embark on its first test in orbit, launching a prototype satellite to evaluate how Google Tensor Processing Units (TPUs) perfo… [+2384 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Variety"
+          },
+          "author": "Todd Spangler",
+          "title": "Paramount’s David Ellison Attends Trump White House State Dinner for Chinese President; CNN and MS NOW Reporters Barred From Event",
+          "description": "David Ellison, CEO of Paramount Skydance, dined at the White House Thursday evening at the state dinner held for visiting Chinese President Xi Jinping — but the White House shut out reporters for CNN, the Warner Bros. Discovery-owned news network Ellison is a…",
+          "url": "https://variety.com/2026/film/news/david-ellison-trump-white-house-state-dinner-chinese-president-cnn-1236875329/",
+          "urlToImage": "https://variety.com/wp-content/uploads/2026/09/David-Ellison-Donald-Trump.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-09-25T03:53:16Z",
+          "content": "David Ellison, CEO of Paramount Skydance, dined at the White House Thursday evening at the state dinner held for visiting Chinese President Xi Jinping — but the White House shut out reporters for CNN… [+8985 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BusinessLine"
+          },
+          "author": "PTI",
+          "title": "Trump, Xi review bilateral ties, vow to chart future course over common interests",
+          "description": "“Today, Sino-US relations are at a new historical starting point,” Xi said, noting Trump’s pledge to “Make America Great Again” and China’s mission of national rejuvenation",
+          "url": "https://www.thehindubusinessline.com/news/world/trump-xi-review-bilateral-ties-vow-to-chart-future-course-over-common-interests/article71506947.ece",
+          "urlToImage": "https://bl-i.thgim.com/public/incoming/k42eak/article71506998.ece/alternates/LANDSCAPE_1200/2026-09-25T000810Z_1990009338_RC2ZPNA63J1Y_RTRMADP_3_USA-CHINA.JPG",
+          "publishedAt": "2026-09-25T03:44:22Z",
+          "content": "President Donald Trump has said that the US and China have \"never gotten along better\" as he reviewed bilateral ties with his Chinese counterpart, Xi Jinping. He asserted that the two countries can c… [+4051 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "AP",
+          "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations",
+          "description": "Presidents Donald Trump and Xi Jinping met for important discussions regarding trade relations and artificial intelligence advancements. Both leaders emphasized maintaining healthy competition to avoid conflict, especially concerning Taiwan. Discussions also …",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-lays-out-the-pomp-for-xi-but-says-little-about-the-significant-tensions-in-us-china-relations/articleshow/134473725.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134473772,width-1200,height-630,imgsize-76888,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-25T02:57:17Z",
+          "content": "Washington: Presidents Donald Trump and Xi Jinping met for high stakes talks on Thursday at an urgent moment for the U.S.-China relationship, with the world's preeminent powers divided on the war in … [+7704 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CleanTechnica"
+          },
+          "author": "Arthur Frederick (Fritz) Hasler",
+          "title": "How to Become Clean Energy Evangelist",
+          "description": "Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of content-scraping AI, antisocial media, inflation, and other …",
+          "url": "https://cleantechnica.com/2026/09/24/how-to-become-clean-energy-evangelist/",
+          "urlToImage": "https://cleantechnica.com/wp-content/uploads/2026/09/3285.-Fritz-and-Mark.-River-Trail-Trax-Station.-Salt-Lake-City-Utah.-April-22-2026.-Fritz-Hasler-Photo-scaled.jpg",
+          "publishedAt": "2026-09-25T02:46:56Z",
+          "content": "Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of … [+8621 chars]"
+        },
+        {
+          "source": {
+            "id": "rt",
+            "name": "RT"
+          },
+          "author": "RT",
+          "title": "US tech titans attend Trump-Xi dinner. Who wasn’t invited?",
+          "description": "Virtually all of America’s most powerful technology executives joined US President Donald Trump and Chinese leader Xi Jinping for a lavish White House state dinner, as AI emerged as a major theme of the Chinese leader’s visit.",
+          "url": "https://www.rt.com/news/646222-trump-xi-dinner-tech-ai-giants/",
+          "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab5e04c2030277310060b9d.jpg",
+          "publishedAt": "2026-09-25T02:46:26Z",
+          "content": "Virtually all of America’s most powerful technology executives joined US President Donald Trump and Chinese leader Xi Jinping for a lavish White House state dinner on Thursday, as artificial intellig… [+3900 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "Reuters",
+          "title": "PepsiCo, DHL among customers as Tesla kicks off Semi electric truck deliveries",
+          "description": "Tesla is starting deliveries of its Semi trucks, which are designed for long-haul freight transportation. Customers like PepsiCo and DHL received their trucks while confirming their utility in real-world scenarios. The Semi truck can travel up to 500 miles on…",
+          "url": "https://economictimes.indiatimes.com/news/international/business/pepsico-dhl-among-customers-as-tesla-kicks-off-semi-electric-truck-deliveries/articleshow/134473510.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134473577,width-1200,height-630,imgsize-98984,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-25T02:43:41Z",
+          "content": "SAN FRANCISCO: Tesla is beginning deliveries of its Semi trucks to a first set of customers this week, executives said at its plant in Sparks, Nevada, almost nine years after CEO Elon Musk unveiled t… [+2177 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The Information"
+          },
+          "author": "Stephanie Palazzolo",
+          "title": "Startup Founded by ex-Tesla Dojo Leaders Nears $10 Billion Valuation",
+          "description": null,
+          "url": "https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation",
+          "urlToImage": null,
+          "publishedAt": "2026-09-25T02:40:47Z",
+          "content": "DensityAI, an AI chip startup founded just a year ago by former leaders of Tesla’s Dojo supercomputer program, is in advanced talks to raise hundreds of millions of dollars in a round that would valu… [+446 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Business Standard"
+          },
+          "author": "Press Trust of India",
+          "title": "Trump, Xi review ties, vow to chart future course over common interests",
+          "description": "President Donald Trump has said that the US and China have \"never gotten along better\" as he reviewed bilateral ties with his Chinese counterpart, Xi Jinping. He asserted that the two countries can continue to build a relationship that promotes prosperity and…",
+          "url": "https://www.business-standard.com/world-news/trump-xi-review-ties-vow-to-chart-future-course-over-common-interests-126092500093_1.html",
+          "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/25/thumb/featurecrop/1200X628/1790303301-2041.jpg",
+          "publishedAt": "2026-09-25T02:29:26Z",
+          "content": "President Donald Trump has said that the US and China have \"never gotten along better\" as he reviewed bilateral ties with his Chinese counterpart, Xi Jinping. He asserted that the two countries can c… [+4163 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "theverge.com",
+          "title": "Here’s the Tesla Semi… again",
+          "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 — nearly a decade after its initial introduction. On Thursday evening, the company held yet another event f…",
+          "url": "https://biztoc.com/x/eea60105e1d7ff03",
+          "urlToImage": "https://biztoc.com/cdn/eea60105e1d7ff03_s.webp",
+          "publishedAt": "2026-09-25T02:23:11Z",
+          "content": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 nearly a decade after its initial introduction.… [+145 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Ibtimes.com.au"
+          },
+          "author": "George Anton",
+          "title": "5 Major New Technologies Elon Musk's Companies Are Racing to Build Across Space, AI and Robotics This Year",
+          "description": "Musk's companies are pursuing major 2026 projects involving brain implants, Starship, humanoid robots, autonomous vehicles, semiconductor manufacturing and AI infrastructure, despite significant uncertainty around delivery timelines.",
+          "url": "https://www.ibtimes.com.au/musk-companies-2026-technology-projects-1875838",
+          "urlToImage": "https://d.ibtimes.com.au/en/full/201144/tesla-ceo-elon-musk-visited-factory-site-outside-berlin-september.jpg",
+          "publishedAt": "2026-09-25T02:22:17Z",
+          "content": "Elon Musk's various companies are pursuing an unusually dense slate of new technology projects in 2026, spanning space exploration, brain-computer interfaces, humanoid robotics and semiconductor manu… [+6133 chars]"
+        },
+        {
+          "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+          },
+          "author": "Andrew J. Hawkins",
+          "title": "Here’s the Tesla Semi… again",
+          "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event f…",
+          "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+          "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Semi_77.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "publishedAt": "2026-09-25T02:12:57Z",
+          "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres the Tesla Semi again\r\nThe long-delayed truck is finally in production and reaching customers this week. Now Tesla has to prove that it was worth the wait.\r… [+9552 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "ET Online",
+          "title": "Trump-Xi dinner: Elon Musk, Jeff Bezos, Sam Altman, Huang, Nadella among star-studded guest list",
+          "description": "Billionaires and leaders from the technology sector gathered at the White House for a state dinner. This event hosted Chinese President Xi Jinping and his wife, Peng Liyuan, with various US officials. The discussions included trade, artificial intelligence, a…",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-xi-dinner-elon-musk-jeff-bezos-sam-altman-huang-nadella-among-star-studded-guest-list/articleshow/134473026.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134473088,width-1200,height-630,imgsize-88516,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-25T02:02:27Z",
+          "content": "Billionaires, technology chiefs, Wall Street heavyweights, senior US officials and members of US President Donald Trumps family gathered at the White House for a state dinner hosted for Chinese Presi… [+8923 chars]"
+        },
+        {
+          "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+          },
+          "author": null,
+          "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
+          "description": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
+          "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping",
+          "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab5cab30f084-1790298803.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-09-25T02:00:16Z",
+          "content": "United States President Donald Trump has thrown Chinas leader Xi Jinping a state dinner featuring a tech-heavy guest list, as well as a number of billionaires, Washington powerbrokers, business leade… [+2580 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BusinessLine"
+          },
+          "author": "AP- PTI",
+          "title": "Trump-Xi state dinner: Tech billionaires, lavish menu and White House pageantry in focus",
+          "description": "Amazon, Tesla, SpaceX, Google and OpenAI executives were among prominent technology figures expected at the high-profile White House gathering",
+          "url": "https://www.thehindubusinessline.com/news/world/trump-xi-state-dinner-tech-billionaires-lavish-menu-and-white-house-pageantry-in-focus/article71506847.ece",
+          "urlToImage": "https://bl-i.thgim.com/public/incoming/n3uwu7/article71506884.ece/alternates/LANDSCAPE_1200/2026-09-25T001934Z_1998543987_RC20QNAUZ7W0_RTRMADP_3_USA-CHINA.JPG",
+          "publishedAt": "2026-09-25T01:43:33Z",
+          "content": "A tech-heavy guest list, the fashion choices of those on it, who sits where, their body language throughout the night and whats on the menu: these are the softer often and glitzier details of diploma… [+4805 chars]"
+        },
+        {
+          "source": {
+            "id": "next-big-future",
+            "name": "Next Big Future"
+          },
+          "author": "Brian Wang",
+          "title": "Dan Priestly and Lars Lead the Tesla Semi Event",
+          "description": "Tesla semi rollout event. Very soon the self driving features will be added. It will be a game changer truck. They have fully automated unloading and placement of battery cells into the semi truck. Semi Rollout https://t.co/eTDVRTFjOf — Tesla Semi (@tesla_sem…",
+          "url": "https://www.nextbigfuture.com/2026/09/dan-priestly-and-lars-lead-the-tesla-semi-event.html",
+          "urlToImage": null,
+          "publishedAt": "2026-09-25T01:03:00Z",
+          "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Abcnews.com"
+          },
+          "author": "The Associated Press",
+          "title": "Who was invited to China state dinner: White House releases guest list",
+          "description": "The White House has released the guest list for the dinner hosted Thursday by President Donald Trump and Melania Trump for Chinese President Xi Jinping and his wife, Peng Liyuan",
+          "url": "https://abcnews.com/US/wireStory/invited-china-state-dinner-white-house-releases-guest-136740703",
+          "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "publishedAt": "2026-09-25T01:02:47Z",
+          "content": "WASHINGTON -- Guests at the White House dinner hosted Thursday by President Donald Trump and Melania Trump for Chinese President Xi Jinping and his wife, Peng Liyuan, as released by the White House:\r… [+5296 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Prtimes.jp"
+          },
+          "author": null,
+          "title": "茨城県ひたちなか市に「テスラ ひたちなか」をオープン",
+          "description": "[Tesla Japan 合同会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/38481/75/38481-75-f7c7c158113a75d6d872582e44d6adba-1076x595.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+          "url": "https://prtimes.jp/main/html/rd/p/000000075.000038481.html",
+          "urlToImage": "https://prcdn.freetls.fastly.net/release_image/38481/75/38481-75-f7c7c158113a75d6d872582e44d6adba-1076x595.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "publishedAt": "2026-09-25T00:56:00Z",
+          "content": "250kW6\r\n10135\r\nWeb (www.tesla.com/ja_jp/drive) \r\n - 24 2\r\n812-1-1\r\n - 2-2-13\r\n1-1\r\n - 1400 \r\n - 4-263-1 \r\n3-1-1 \r\n - 35 \r\n - 2-4-1\r\n3-12-17\r\n4-1-2 \r\n1-14-1S.C.\r\n2-3-1\r\n21-8 3F\r\n - 1-1 \r\n307-1\r\n POP-U… [+504 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CleanTechnica"
+          },
+          "author": "Juan Diego Celemín Mojica",
+          "title": "Uruguay EV Sales Report: Sales Soar in August as Market Share Reaches 56%!",
+          "description": "Latin America’s small champion keeps making headlines and surpassing even the most optimistic expectations. Uruguay’s EV adoption has diverged from the region and reached a level that many of us would’ve though irrationally optimist only two years ago. Amidst…",
+          "url": "https://cleantechnica.com/2026/09/24/uruguay-ev-sales-report-sales-soar-in-august-as-market-share-reaches-56/",
+          "urlToImage": "https://cleantechnica.com/wp-content/uploads/2026/09/uruguay_ev_sales_report_august_featured.png",
+          "publishedAt": "2026-09-25T00:43:06Z",
+          "content": "Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of … [+5347 chars]"
+        },
+        {
+          "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+          },
+          "author": null,
+          "title": "Xi can’t escape protesters’ cries at deafening dinner demonstration",
+          "description": "Protesters chanting \"Free Hong Kong\" and demanding freedom for political prisoners were heard over Trump's State Dinner welcoming Xi Jinping.",
+          "url": "https://www.foxnews.com/politics/xi-escape-protesters-cries-deafening-dinner-demonstration",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-xi-state-dinner-fox.jpg",
+          "publishedAt": "2026-09-25T00:27:21Z",
+          "content": "Audible protests blared over President Donald Trump and first lady Melania Trumps welcome to Chinese President Xi Jinping and his wife, Peng Liyuan, at the White House Thursday night, at times drowni… [+2566 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNBC"
+          },
+          "author": "Evelyn Cheng",
+          "title": "Here's who is attending the Trump-Xi state dinner",
+          "description": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+          "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106677114-15983545702020-08-25t100023z_1719720997_rc2yki97n9wc_rtrmadp_0_usa-china-tech.jpeg?v=1692261559&w=1920&h=1080",
+          "publishedAt": "2026-09-25T00:22:31Z",
+          "content": "U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.\r\nOn the Chine… [+8050 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Deadline"
+          },
+          "author": "Dominic Patten",
+          "title": "David Ellison Dines With Trump & Xi Tonight As CEO’s Soon-To-Be Owned CNN Banned From White House, Again",
+          "description": "Reporters from CNN aren’t allowed in to the White House’s state dinner for China’s president tonight, but the outlet’s soon-to -be owner will be breaking bread with Xi Jinping and Donald Trump, along with a gaggle of tech bosses. Striving to get a settlement …",
+          "url": "http://deadline.com/2026/09/david-ellison-trump-china-dinner-1237113399/",
+          "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/white-house-china-state-dinner.jpg?w=1024",
+          "publishedAt": "2026-09-25T00:17:44Z",
+          "content": "Reporters from CNN aren’t allowed in to the White House’s state dinner for China’s president tonight, but the outlet’s soon-to -be owner will be breaking bread with Xi Jinping and Donald Trump, along… [+9082 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNA"
+          },
+          "author": null,
+          "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+          "description": "<![CDATA[ “Everyone wants to be there,” Trump says of the state dinner. ”It's the hottest ticket in town.\" ]]>",
+          "url": "https://www.channelnewsasia.com/world/trump-xi-jinping-state-dinner-china-united-states-6409366",
+          "urlToImage": "https://dam.mediacorp.sg/image/upload/s--7_OTC3q8--/c_crop,h_1125,w_2000,x_0,y_125/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/25/2026-09-24t231337z_963825348_rc2zpna6l9mm_rtrmadp_3_usa-china.jpg?itok=RhdAO0MG",
+          "publishedAt": "2026-09-25T00:08:00Z",
+          "content": "Asked on Monday night who'd be in attendance, the president responded, sort of everybody, adding, \"I would say you have the entire tech world, the entire banking world and a lot more.\r\nThe dinner was… [+3313 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Raven Saunt",
+          "title": "Xi Jinping's wife Peng Liyuan commands attention in fiery red gown at White House state dinner",
+          "description": "The 63-year-old, who has been First Lady of China since 2012, looked effortlessly chic as she attended the festivities in Washington, DC, on Thursday evening.",
+          "url": "https://www.dailymail.com/lifestyle/fashion/article-16155501/xi-jinping-wife-peng-liyuan-state-dinner-white-house-dress.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/25/00/111458039-0-image-m-54_1790293577722.jpg",
+          "publishedAt": "2026-09-24T23:54:48Z",
+          "content": "Xi Jinping's wife Peng Liyuan opted for a fiery red gown at tonight's state dinner hosted at the White House.\r\nThe 63-year-old, who has been First Lady of China since 2012, commanded attention as she… [+3539 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Charlotte Karp",
+          "title": "Female friend tells trial how Beau Lamarre-Condon partied at Kyle Sandilands' house and was on a first-name basis with Rita Ora before alleged double murder",
+          "description": "Follow Daily Mail's live coverage of Beau Lamarre-Condon's murder trial.",
+          "url": "https://www.dailymail.com/news/article-16158965/Beau-Lamarre-Condon-murder-trial-jesse-bair-luke-davies.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/25/00/111457997-0-image-m-39_1790292344557.jpg",
+          "publishedAt": "2026-09-24T23:48:48Z",
+          "content": "Court resumed on Thursday with more evidence from NSW Police detective Sasha Pinazza, who led the investigation into Beau Lamarre-Condon.\r\nShe started giving evidence on Monday.\r\nMs Pinazza told the … [+3470 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Raven Saunt",
+          "title": "Melania Trump wows in striking monochrome ensemble at state dinner for China's Xi Jinping",
+          "description": "The 56-year-old donned a striking ensemble to greet the Chinese president and his wife Peng Liyuan at the White House in Washington, DC, on Thursday evening.",
+          "url": "https://www.dailymail.com/lifestyle/fashion/article-16155495/melania-trump-state-dinner-xi-jinping-china-donald.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/25/00/111457909-0-image-m-39_1790291896819.jpg",
+          "publishedAt": "2026-09-24T23:20:34Z",
+          "content": "Melania Trump flaunted her fashion credentials as she joined husband President Donald Trump at the state dinner for Xi Jinping.\r\nThe 56-year-old donned a striking monochrome ensemble to greet the Chi… [+4191 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "cnbc.com",
+          "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+          "description": "Tesla is officially opening its first factory for high-volume production of the Semi, a heavy-duty electric truck, in Sparks, Nevada, as CEO Elon Musk aims to push into big rigs.\nThe company first unveiled its Semi in 2017, and started selling the trucks in v…",
+          "url": "https://biztoc.com/x/b49bf454650587a1",
+          "urlToImage": "https://biztoc.com/cdn/b49bf454650587a1_s.webp",
+          "publishedAt": "2026-09-24T23:07:46Z",
+          "content": "Tesla is officially opening its first factory for high-volume production of the Semi, a heavy-duty electric truck, in Sparks, Nevada, as CEO Elon Musk aims to push into big rigs.The company first unv… [+138 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Raven Saunt",
+          "title": "Lauren Sanchez puts on eye-popping display as she joins husband Jeff Bezos at state dinner with Xi Jinping",
+          "description": "The 56-year-old flaunted her physique as she arrived at the White House in Washington, DC, on Thursday evening.",
+          "url": "https://www.dailymail.com/lifestyle/fashion/article-16158413/lauren-sanchez-jeff-bezos-state-dinner-xi-jinping-trump.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/24/23/111457245-0-image-m-9_1790290092167.jpg",
+          "publishedAt": "2026-09-24T22:59:45Z",
+          "content": "Lauren Sanchez has put on an eye-popping display as she joined husband Jeff Bezos at the state dinner with Xi Jinping.\r\nThe 56-year-old flaunted her physique as she arrived at the White House in Wash… [+3334 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "iPhone in Canada"
+          },
+          "author": "John Quintet",
+          "title": "Carney Wants Canada Off Starlink, But Its Rival Still Needs SpaceX",
+          "description": "Canada’s plans to reduce its reliance on Starlink are being tied to the development of Telesat Lightspeed, but the alternative satellite network is still years away from full service. Prime Minister Mark Carney said in an interview with the New York Times pub…",
+          "url": "https://www.iphoneincanada.ca/2026/09/24/carney-diversify-starlink-telesat/",
+          "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/10/starlink-standard-dish-2025.jpg",
+          "publishedAt": "2026-09-24T22:52:43Z",
+          "content": "Canada’s plans to reduce its reliance on Starlink are being tied to the development of Telesat Lightspeed, but the alternative satellite network is still years away from full service.\r\nPrime Minister… [+1548 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNBC"
+          },
+          "author": "Lora Kolodny",
+          "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+          "description": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
+          "url": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/108367797-1790286809308-gettyimages-2274878284-actexpoevvehicles1558.jpeg?v=1790286934&w=1920&h=1080",
+          "publishedAt": "2026-09-24T22:41:11Z",
+          "content": "Tesla is officially opening its first factory for high-volume production of the Semi, a heavy-duty electric truck, in Sparks, Nevada, as CEO Elon Musk aims to push into big rigs. \r\nThe company first … [+2764 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Ubergizmo"
+          },
+          "author": "Hubert Nguyen",
+          "title": "Leaked Tesla Optimus Humanoid Robot Gen 3 Cleaner Look",
+          "description": "Gold-and-black Gen 3 Optimus images surfaced before any unveil. Here's what they show, what they might mean, and where they were found.",
+          "url": "https://www.ubergizmo.com/2026/09/leaked-tesla-optimus-humanoid-robot-gen-3-cleaner-look/",
+          "urlToImage": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/09/tesla-optimus-gen3-leak.jpg",
+          "publishedAt": "2026-09-24T21:47:52Z",
+          "content": "New gold-and-black images of Tesla’s next Optimus humanoid robot, labeled Gen 3, have turned up online. They show a cleaner-looking machine: a champagne-gold torso, covered hips where earlier prototy… [+2472 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "KSAT San Antonio"
+          },
+          "author": "Will Weissert",
+          "title": "Trump's state dinner for Xi to feature sea bass and a long list of tech titans",
+          "description": "Donald Trump has hosted a state dinner for China's leader Xi Jinping, highlighting the glitzier side of diplomacy with a tech-heavy guest list and lavish details.",
+          "url": "https://www.ksat.com/news/politics/2026/09/24/trumps-state-dinner-for-xi-to-feature-sea-bass-and-a-long-list-of-tech-titans/",
+          "urlToImage": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/MXPGIB5Q6VBYLGC32Y72FGJKNY.jpg?api_key=ksat_9a37fc89631abedf",
+          "publishedAt": "2026-09-24T21:34:12Z",
+          "content": "WASHINGTON A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer often and glitzier details of diplomacy as Donald Trump threw a Thursd… [+5592 chars]"
+        },
+        {
+          "source": {
+            "id": "time",
+            "name": "Time"
+          },
+          "author": "Philip Wang",
+          "title": "Trump and Xi Meet Ahead of State Dinner With Top A.I. Leaders",
+          "description": "Elon Musk, Sam Altman, Jeff Bezos and Sundar Pichai were set to attend the dinner",
+          "url": "https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/",
+          "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blte533edb0345c177e/6ab559889d758f12aef478a5/GettyImages-2296938271.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+          "publishedAt": "2026-09-24T20:51:12Z",
+          "content": "The day began with remarks from both Trump and Xi at the grand foyer of the White House. Afterward, Trump and Xi participated in a military review at the Rose Garden and took part in hours of meeting… [+755 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Abcnews.com"
+          },
+          "author": "WILL WEISSERT Associated Press",
+          "title": "Trump's state dinner for Xi to feature sea bass and a long list of tech titans",
+          "description": "President Donald Trump is hosting a state dinner for China's leader Xi Jinping, an event that will be closely scrutinized for clues about their relationship",
+          "url": "https://abcnews.com/US/wireStory/trumps-state-dinner-xi-feature-sea-bass-long-136734926",
+          "urlToImage": "https://i.abcnewsfe.com/a/3517f44b-d440-4542-8984-fa52170d99a6/wirestory_d005bcd1ce76fdcd9d94c6b3d18a457e_16x9.jpg?w=1600",
+          "publishedAt": "2026-09-24T20:45:24Z",
+          "content": "WASHINGTON -- A tech-heavy guest list, the fashion choices of those on it, who sits where, their body language throughout the night and whats on the menu: these are the softer often and glitzier deta… [+4615 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+          },
+          "author": "WILL WEISSERT",
+          "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+          "description": "WASHINGTON (AP) — A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer — often and glitzier — details of diplomacy as Donald Trump threw a Thursday night state dinner honoring China’s leader Xi …",
+          "url": "https://www.yahoo.com/news/politics/articles/trumps-state-dinner-xi-feature-203656437.html",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/9d949a7b4ae25481c303efbe06c23fe803cf0d8fb433130ef83a3597064e68a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2fb40e12633c2aa9928bc8aa5635893c.jpg",
+          "publishedAt": "2026-09-24T20:36:56Z",
+          "content": "WASHINGTON (AP) A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer often and glitzier details of diplomacy as Donald Trump threw a T… [+5469 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Electrek"
+          },
+          "author": "Fred Lambert",
+          "title": "Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
+          "description": "Tesla’s “Full Self-Driving (Supervised)” broke the speed limit in 55% of the 30 km/h segments a Belgian road safety group tested in Brussels, averaging 44 km/h where the legal limit is 30 km/h.\n\n\n\nThe results land less than two weeks before EU member states v…",
+          "url": "http://electrek.co/2026/09/24/tesla-fsd-belgium-test-speeding-30-kmh-eu-vote/",
+          "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/07/Tesla-FSD-Speed-ticket-hero.jpeg?quality=82&strip=all&resize=1200,628",
+          "publishedAt": "2026-09-24T19:50:49Z",
+          "content": "Tesla’s “Full Self-Driving (Supervised)” broke the speed limit in 55% of the 30 km/h segments a Belgian road safety group tested in Brussels, averaging 44 km/h where the legal limit is 30 km/h.\r\nThe … [+5418 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "inc.com",
+          "title": "Elon Musk Could Gain a Stake in CNN and CBS. A Media Scholar Says the Biggest Risk Isn’t Direct Control",
+          "description": "Paramount is reportedly exploring bringing the Tesla founder into an investor syndicate.",
+          "url": "https://biztoc.com/x/b45ab42e339ee02c",
+          "urlToImage": "https://biztoc.com/cdn/b45ab42e339ee02c_s.webp",
+          "publishedAt": "2026-09-24T19:40:32Z",
+          "content": "Paramount is reportedly exploring bringing the Tesla founder into an investor syndicate.\r\nThis story appeared on inc.com, 2026-09-24 19:07:22."
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Pypi.org"
+          },
+          "author": null,
+          "title": "oldiron added to PyPI",
+          "description": "Run local LLMs on the hardware you already have: compatibility doctor and memory planner for llama.cpp on old NVIDIA GPUs and Apple Silicon.",
+          "url": "https://pypi.org/project/oldiron/",
+          "urlToImage": null,
+          "publishedAt": "2026-09-24T19:30:17Z",
+          "content": "Run local LLMs on the hardware you already have.\r\nDocumentation: oldiron.readthedocs.io\r\nA second-hand Tesla P40 costs less than a game. The problem is never the card it is\r\nthe hour you lose to a bu… [+7574 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "TechSpot"
+          },
+          "author": "Skye Jacobs",
+          "title": "Geely's new charging system takes EVs from 10% to 70% in 4 minutes, 30 seconds",
+          "description": "The Chinese automaker said it tested the system on a Zeekr 001 sedan and a Lynk & Co 10 hybrid. In both cases, the vehicles reached a 97% charge in less than nine minutes. Geely said its software predicts battery temperature during charging and adjusts power …",
+          "url": "https://www.techspot.com/news/113966-geely-new-charging-system-takes-evs-10-70.html",
+          "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-24-image-5.jpg",
+          "publishedAt": "2026-09-24T19:26:00Z",
+          "content": "Forward-looking: Geely Automotive says its next-generation EV charging system uses artificial intelligence to charge a battery from 10% to 70% in four minutes and 30 seconds. The system will debut wi… [+2619 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Electrek"
+          },
+          "author": "Fred Lambert",
+          "title": "NHTSA investigates comma.ai’s openpilot over 5 crashes that killed 3",
+          "description": "NHTSA has opened a formal investigation into comma.ai’s aftermarket driver assistance devices after five crashes where cars running openpilot plowed into stopped or slow-moving vehicles in their own lane. Two of those crashes killed three people.\n\n\n\nThe probe…",
+          "url": "http://electrek.co/2026/09/24/comma-ai-openpilot-nhtsa-investigation-crashes/",
+          "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2016/11/comma-one-teaser.png?resize=1200,628",
+          "publishedAt": "2026-09-24T19:12:57Z",
+          "content": "NHTSA has opened a formal investigation into comma.ai’s aftermarket driver assistance devices after five crashes where cars running openpilot plowed into stopped or slow-moving vehicles in their own … [+6176 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Futurism"
+          },
+          "author": "Joe Wilkins",
+          "title": "Tesla Argues in Court That the N-Word Is Acceptable Under Certain Circumstances",
+          "description": "Witnesses also report being deceived by Tesla lawyers.\nThe post Tesla Argues in Court That the N-Word Is Acceptable Under Certain Circumstances appeared first on Futurism.",
+          "url": "https://futurism.com/advanced-transport/tesla-california-trial-n-word-acceptable-racist-discrimination",
+          "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/tesla-california-trial-n-word-acceptable-racist-discrimination.jpg?w=1200",
+          "publishedAt": "2026-09-24T18:57:55Z",
+          "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nWhatever special kind of brain worms have established themselves in Elon Musk’s noggin appear to be spreading throughout his compani… [+2133 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Marina Temkin",
+          "title": "Meet Feather, the startup building the 'Android of robotics' for developers | TechCrunch",
+          "description": "Meet Feather, the startup building the 'Android of robotics' for developers | TechCrunchtechcrunch.com",
+          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
+          "publishedAt": "2026-09-24T18:53:06Z",
+          "content": "If there is one thing robotics founders and investors agree on, it’s that the ChatGPT moment where a general-purpose robot can seamlessly adapt to any environment has not arrived. Opinions vary on wh… [+3610 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Rolling Stone"
+          },
+          "author": "Daniel Kreps",
+          "title": "Elon Musk Is in the Business of Selling Dreams in Trailer for New Doc",
+          "description": "Alex Gibney's two-part, four-hour Musk, an \"incisive look\" at \"the wealthiest, and most unchecked, man on the planet,\" opens this fall",
+          "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/elon-musk-documentary-trailer-1235631137/",
+          "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/GettyImages-2256975573.jpg?w=1600&h=900&crop=1",
+          "publishedAt": "2026-09-24T18:50:37Z",
+          "content": "Filmmaker Alex Gibney has shared the first trailer for Musk, a two-part, four-hour deep dive into Elon Musk that Rolling Stone called “a nonfiction horror movie” following its film festival debut ear… [+1548 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "Aastha Raj",
+          "title": "Trump’s dinner for Xi Jinping looks more like a Silicon Valley Summit, but China CEO's are missing; here's the guest list",
+          "description": "US President Donald Trump's dinner with Chinese Supremo Xi Jinping is currently the talk of the tech industry as most of the business elites are invited to attend the high profile event. Here's a tentative guest list on who all are expected to at tonight's su…",
+          "url": "https://economictimes.indiatimes.com/news/international/us/trumps-dinner-for-xi-jinping-looks-more-like-a-silicon-valley-summit-but-china-ceos-are-missing-heres-the-guest-list/articleshow/134467886.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134468348,width-1200,height-630,imgsize-79456,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-24T18:15:00Z",
+          "content": "Donald Trumps state dinner for Xi Jinping is meant to honor the Chinese president. Yet the room may feel more like a gathering of Americas business elite.Some of the biggest names in technology are e… [+3190 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "FactCheck.org"
+          },
+          "author": "D'Angelo Gore",
+          "title": "America PAC",
+          "description": "A pro-Republican super PAC created by Elon Musk, the co-founder of Tesla and SpaceX.\nThe post America PAC appeared first on FactCheck.org.",
+          "url": "https://www.factcheck.org/2026/09/america-pac-2/",
+          "urlToImage": "https://www.factcheck.org/wp-content/uploads/2026/07/2026PLAYERSICON.png",
+          "publishedAt": "2026-09-24T18:14:01Z",
+          "content": "Political leanings: Pro-Republican\r\n2024 total spending: $261.2 million\r\nAmerica PAC is a super PAC that was created in 2024 by the world’s richest person, Elon Musk, who co-founded Tesla and SpaceX,… [+3091 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "GeekTyrant"
+          },
+          "author": "Joey Paur",
+          "title": "MUSK Trailer Takes a Sledgehammer to Elon Musk’s Power, Politics, and Empire",
+          "description": "The trailer for Musk has arrived, and Oscar-winning filmmaker Alex Gibney is taking a wrecking ball to the public image of Elon Musk.The nearly four-hour documentary takes a critical look at the billionaire’s rise, immense influence, personal relationships, b…",
+          "url": "https://geektyrant.com/news/musk-trailer-takes-a-sledgehammer-to-elon-musks-power-politics-and-empire",
+          "urlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ab55317bfd689391d351f0b/1790272822647/Screenshot+2026-09-24+at+9.57.27%E2%80%AFAM.jpg?format=1500w",
+          "publishedAt": "2026-09-24T18:00:00Z",
+          "content": "The trailer for Musk has arrived, and Oscar-winning filmmaker Alex Gibney is taking a wrecking ball to the public image of Elon Musk.\r\nThe nearly four-hour documentary takes a critical look at the bi… [+2808 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Electrek"
+          },
+          "author": "Reinette LeJeune",
+          "title": "Anker security cameras up to 46% off in early Prime Day Sale, EcoFlow Monthly Madness flash sale, EGO snow blower bundles, more",
+          "description": "Following right alongside the early Amazon Prime Day deals that are live, we’ve got two new Prime Day sales leading today’s Green Deals. First, there’s the massive Anker eufy Early Prime Day Sale with up to 46% savings on security and cleaning devices, like t…",
+          "url": "http://electrek.co/2026/09/24/anker-security-cameras-early-prime-day-sale-ecoflow-monthly-madness-flash-sale-ego-snow-blower/",
+          "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Anker-eufy-EcoFlow-EGO-Lectric-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+          "publishedAt": "2026-09-24T18:00:00Z",
+          "content": "Following right alongside the early Amazon Prime Day deals that are live, we’ve got two new Prime Day sales leading today’s Green Deals. First, there’s the massive Anker eufy Early Prime Day Sale wit… [+12323 chars]"
+        },
+        {
+          "source": {
+            "id": "next-big-future",
+            "name": "Next Big Future"
+          },
+          "author": "Brian Wang",
+          "title": "What you need to know efore Tonights Tesla Semi Event",
+          "description": "Here is important things to know about Tesla Semi, robotrucking and robotaxi. • 30,000 Semi sales in 2027 would generate roughly $8–9 BILLION in vehicle revenue at $260,000–$290,000 per truck. • 50,000 sales at $260,000 would generate $13 BILLION annually. • …",
+          "url": "https://www.nextbigfuture.com/2026/09/what-you-need-to-know-efore-tonights-tesla-semi-event.html",
+          "urlToImage": null,
+          "publishedAt": "2026-09-24T17:59:17Z",
+          "content": "Here is important things to know about Tesla Semi, robotrucking and robotaxi.\r\n 30,000 Semi sales in 2027 would generate roughly $89 BILLION in vehicle revenue at $260,000$290,000 per truck.50,000 sa… [+2752 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dansdeals.com"
+          },
+          "author": "Dan",
+          "title": "X Money, Offering Up To 6% APY, Now Open To Most X Accounts",
+          "description": "One of Elon Musk’s early US ventures was X.com, an online bank founded in 1999. After a merger, it became PayPal in 2001, which had a 2002 IPO that provided the capital for Musk to invest in SpaceX and Tesla. Musk bought the X.com domain from PayPal in 2017, …",
+          "url": "https://www.dansdeals.com/points-travel/bank-accounts/x-money-offering-up-to-6-apy-now-open-to-most-x-accounts/#article",
+          "urlToImage": "https://i.dansdeals.com/wp-content/uploads/2026/09/24133033/WhatsApp-Image-2026-09-24-at-1.27.25-PM-1.jpeg",
+          "publishedAt": "2026-09-24T17:24:39Z",
+          "content": "One of Elon Musk’s early US ventures was X.com, an online bank founded in 1999. After a merger, it became PayPal in 2001, which had a 2002 IPO that provided the capital for Musk to invest in SpaceX a… [+2383 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "investors.com",
+          "title": "Tesla Semi Joins Parade Of New Model Showcases; Stock Falls",
+          "description": "The Tesla Semi truck will join the Cybercab and Roadster in getting its very own demo. On Thursday, Tesla will hold an event to celebrate its new Semi truck factory in Sparks, Nev., beginning at 9 p.m. ET. The event follows on the heels of a media showcase fo…",
+          "url": "https://biztoc.com/x/2dac0f1bbc4cd0ce",
+          "urlToImage": "https://biztoc.com/cdn/2dac0f1bbc4cd0ce_s.webp",
+          "publishedAt": "2026-09-24T17:22:46Z",
+          "content": "The Tesla Semi truck will join the Cybercab and Roadster in getting its very own demo. On Thursday, Tesla will hold an event to celebrate its new Semi truck factory in Sparks, Nev., beginning at 9 p.… [+152 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+          },
+          "author": "Steven Zeitchik",
+          "title": "How Many Conflicts of Interest Does Elon Musk Have?",
+          "description": "A taste from Bleecker Street ahead of Oct. 9 culture-jamming theatrical release.",
+          "url": "http://www.hollywoodreporter.com/news/politics-news/watch-musk-trailer-documentary-theaters-showtimes-1236709407/",
+          "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/MuskTrailer.jpg?w=1440&h=810&crop=1",
+          "publishedAt": "2026-09-24T17:08:21Z",
+          "content": "“What are the odds that we’re in base reality?” Elon Musk asks rhetorically. “Like, we are in a simulation.”\r\nSo opens the new trailer for Musk, Alex Gibney’s trippy-but-deadly-serious documentary ab… [+2663 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "PRNewswire"
+          },
+          "author": null,
+          "title": "Cox Automotive Raises Full-Year New-Vehicle Sales Forecast; September Sales Expected to Increase 6.5% Year Over Year, as Asian Brands Gain Share",
+          "description": "September's new-vehicle sales pace is expected to finish near 16.3 million, down from last year's 16.6 million level and from August's 16.8 million pace. Q3 sales volume is expected to reach 4.12 million, down from Q2 and a year ago. However, Cox Automotive i…",
+          "url": "https://www.prnewswire.com/news-releases/cox-automotive-raises-full-year-new-vehicle-sales-forecast-september-sales-expected-to-increase-6-5-year-over-year-as-asian-brands-gain-share-302889501.html",
+          "urlToImage": "https://mmx.prnewswire.com/media/MS833664/Cox-Automotive-Logo-v2.jpg?id=OA2969725&p=facebook",
+          "publishedAt": "2026-09-24T17:00:00Z",
+          "content": "<ul><li>September's new-vehicle sales pace is expected to finish near 16.3 million, down from last year's 16.6 million level and from August's 16.8 million pace.</li><li>Q3 sales volume is expected t… [+10821 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "247wallst.com",
+          "title": "Prediction: The Biggest Opportunity for Tesla Stock May Be Just Ahead",
+          "description": "The post Prediction: The Biggest Opportunity for Tesla Stock May Be Just Ahead appeared first on 24/7 Wall St..\nTesla (NASDAQ:TSLA) has had a bumpy 2026, but the setup into 2027 is starting to look interesting. Shares are down 15.36% year-to-date, yet the sto…",
+          "url": "https://biztoc.com/x/c02a0230776dc6d3",
+          "urlToImage": "https://biztoc.com/cdn/c02a0230776dc6d3_s.webp",
+          "publishedAt": "2026-09-24T16:36:35Z",
+          "content": "The post Prediction: The Biggest Opportunity for Tesla Stock May Be Just Ahead appeared first on 24/7 Wall St..Tesla (NASDAQ:TSLA) has had a bumpy 2026, but the setup into 2027 is starting to look in… [+146 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Consequence.net"
+          },
+          "author": "Liz Shannon Miller",
+          "title": "Musk Trailer: Tesla “Founder” Gets the Documentary He Deserves in Alex Gibney’s Latest: Watch",
+          "description": "The new documentary enters limited release on October 9th, and goes nationwide the following weekend. \nMusk Trailer: Tesla “Founder” Gets the Documentary He Deserves in Alex Gibney’s Latest: Watch\nLiz Shannon Miller",
+          "url": "https://consequence.net/2026/09/musk-trailer-alex-gibney-elon-musk/",
+          "urlToImage": "https://consequence.net/wp-content/uploads/2026/09/musk-trailer-elon-musk-alex-gibney.jpg",
+          "publishedAt": "2026-09-24T16:35:30Z",
+          "content": "If you know a fair bit about tech billionaire Elon Musk, then you know that the trailer for Alex Gibney’s new documentary doesn’t get as deep as it could into the full range of his weirdness. However… [+788 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Crypto Briefing"
+          },
+          "author": "Editorial Team",
+          "title": "Roundhill Magnificent Seven ETF surges amid rising Treasury yields as investors flock to Big Tech safety",
+          "description": "Investors' shift to Big Tech amid high Treasury yields highlights a strategic pivot towards stability and growth in uncertain markets.\nThe post Roundhill Magnificent Seven ETF surges amid rising Treasury yields as investors flock to Big Tech safety appeared f…",
+          "url": "https://cryptobriefing.com/roundhill-magnificent-seven-etf-treasury-yields/",
+          "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24121952/library-roundhill-magnificent-seven-etf-surges-amid-rising-treas-2-800x450.png",
+          "publishedAt": "2026-09-24T16:19:56Z",
+          "content": "The equal-weighted tech ETF tracking Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla is up roughly 9% year-to-date even as the 10-year yield hits levels not seen since January 2025. The R… [+2486 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "First Showing"
+          },
+          "author": "Alex Billington",
+          "title": "Must See Full Trailer for Alex Gibney's 'Musk' Doc About a Fraudster",
+          "description": "\"Do we even know this man at all?\" Bleecker Street has launched their main official trailer for the must see new documentary film titled simply Musk, about the uber-wealthy tech giant megalomaniac Elon Musk. Musk just premiered at the 2026 Venice Film Festiva…",
+          "url": "https://www.firstshowing.net/2026/must-see-full-trailer-for-alex-gibneys-musk-doc-about-a-fraudster/",
+          "urlToImage": "https://media2.firstshowing.net/firstshowing/img18/muskpostercolordocmainimgtw2.jpg",
+          "publishedAt": "2026-09-24T16:15:21Z",
+          "content": "by Alex BillingtonSeptember 24, 2026Source:YouTube\r\n\"Do we even know this man at all?\" Bleecker Street has launched their main official trailer for the must see new documentary film titled simply Mus… [+4012 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Deadline"
+          },
+          "author": "Matthew Carey",
+          "title": "Trailer Released For ‘Musk,’ Damning Doc Portraying World’s Richest Man As Power-Hungry Cretin",
+          "description": "A trailer is out for the eagerly anticipated documentary Musk, Oscar winner Alex Gibney’s brutal takedown of the world’s richest man. As Deadline reported exclusively, Bleecker Street has moved up the theatrical release date of Musk to October 9, citing inten…",
+          "url": "http://deadline.com/2026/09/musk-trailer-released-1237112278/",
+          "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Musk.jpg?w=1024",
+          "publishedAt": "2026-09-24T16:15:00Z",
+          "content": "A trailer is out for the eagerly anticipated documentary Musk, Oscar winner Alex Gibney’s brutal takedown of the world’s richest man.\r\nAs Deadline reported exclusively, Bleecker Street has moved up t… [+2516 chars]"
+        },
+        {
+          "source": {
+            "id": "financial-post",
+            "name": "Financial Post"
+          },
+          "author": "Bloomberg News",
+          "title": "Cybersecurity stocks are so hot investors question their staying power",
+          "description": "Recent warnings from the AI industry about threats posed by the technology have given investors reason to buy cybersecurity stocks. Read on",
+          "url": "https://financialpost.com/investing/cybersecurity-stocks-hot-investors-question-staying-power",
+          "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0925-mg-crowdstrike.png",
+          "publishedAt": "2026-09-24T16:09:44Z",
+          "content": "Shares of cybersecurity companies have soared in recent months on bets that the threats posed by cutting-edge artificial intelligence models will be a boon for their businesses. But some of the stock… [+5327 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Rolling Stone"
+          },
+          "author": "Christian Hoard",
+          "title": "Was September 24, 1991, the Best Day Ever For New Albums?",
+          "description": "On September 24, 1991, classics by Nirvana, the Pixies, A Tribe Called Quest and the Red Hot Chili Peppers dropped. Was it the best album day ever?",
+          "url": "http://www.rollingstone.com/music/music-features/september-24-1991-nirvana-tribe-pixies-chili-peppers-1235630891/",
+          "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/CRAZY-WEEK-IN-1991-rhcp-atcq.jpg?crop=0px%2C16px%2C1800px%2C1014px&resize=1600%2C900",
+          "publishedAt": "2026-09-24T14:32:14Z",
+          "content": "This week in 1991, 35 years ago, was one of those moments that changed music history. On September 24, four classic albums dropped on the same day: Nirvana’s Nevermind, the Red Hot Chili Peppers’ Blo… [+11693 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Abcnews.com"
+          },
+          "author": "CHAN HO-HIM AP business writer",
+          "title": "Chinese auto companies race ahead on EV technology, achieving 5-minute ultrafast charging",
+          "description": "Major Chinese auto group Geely has unveiled new ultrafast EV charging technology that can recharge a battery from 10% to 70% in just 4.5 minutes",
+          "url": "https://abcnews.com/Technology/wireStory/chinese-auto-companies-race-ahead-ev-technology-achieving-136716978",
+          "urlToImage": "https://i.abcnewsfe.com/a/d7d726b0-a689-4bfe-9c08-b63d8e467f56/wirestory_8cba5f8e9580803bb3ca599d152d502b_16x9.jpg?w=1600",
+          "publishedAt": "2026-09-24T14:27:33Z",
+          "content": "HONG KONG -- Chinese electric vehicles ultrafast charging is only getting faster.\r\nOn Wednesday, Geely Auto unveiled technology that can charge an electric vehicle battery from 10% to 70% in just 4.5… [+3598 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Crypto Briefing"
+          },
+          "author": "Editorial Team",
+          "title": "Trump hosts Xi Jinping at White House state dinner with tech leaders for AI talks",
+          "description": "The state dinner signifies a pivotal moment in US-China relations, potentially reshaping global tech policies and economic dynamics.\nThe post Trump hosts Xi Jinping at White House state dinner with tech leaders for AI talks appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/us-state-dinner-tech-leaders-ai-talks/",
+          "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+          "publishedAt": "2026-09-24T14:15:47Z",
+          "content": "Silicon Valley's biggest names will join the president and Chinese leader Xi Jinping at the White House for discussions on AI safety, chip policy, and trade President Donald Trump is hosting Chinese … [+2882 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Electrek"
+          },
+          "author": "Fred Lambert",
+          "title": "Tesla Semi launch sneak peek: several customers are being announced",
+          "description": "Tesla has lined up at least 11 Semi electric trucks wearing customer logos outside its new Nevada factory, a clear sign that the automaker plans to parade its fleet customers at tonight’s Semi launch event.\n\n\n\nA drone flyover of the plant shows trucks branded…",
+          "url": "http://electrek.co/2026/09/24/tesla-semi-launch-sneak-peek-customers-announced/",
+          "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/09/tesla-semi-customer-logos-nevada-factory.jpg?quality=82&strip=all&resize=1200,628",
+          "publishedAt": "2026-09-24T14:10:48Z",
+          "content": "Credit: Zanegler\r\nTesla has lined up at least 11 Semi electric trucks wearing customer logos outside its new Nevada factory, a clear sign that the automaker plans to parade its fleet customers at ton… [+3843 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Core77.com"
+          },
+          "author": "Rain Noe",
+          "title": "Cost-Cutting Disguised as Minimalism: Volvo's EX30 Dashboard Goes Too Far",
+          "description": "This year Volvo brought the EX30, an electric SUV, to the U.S. market. (In Europe the car has been available since 2023, but tariffs and red tape delayed the U.S. launch.) Starting around $38,000, it's meant to be an affordable EV and gateway vehicle to the b…",
+          "url": "https://www.core77.com/posts/145443/Cost-Cutting-Disguised-as-Minimalism-Volvos-EX30-Dashboard-Goes-Too-Far",
+          "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1850995_lead_400_145443_.jpg",
+          "publishedAt": "2026-09-24T14:00:00Z",
+          "content": "This year Volvo brought the EX30, an electric SUV, to the U.S. market. (In Europe the car has been available since 2023, but tariffs and red tape delayed the U.S. launch.) Starting around $38,000, it… [+1276 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "DW (English)"
+          },
+          "author": "Mark Hallam, Felix Tamsut",
+          "title": "Donald Trump hosts Xi Jinping for state dinner with tech titans.",
+          "description": "Donald Trump rolled out the red carpet for Chinese leader Xi Jinping, with the two having toasted each other at a lavish state dinner after their summit meeting. America's top tech bosses were also present at the dinner.",
+          "url": "https://www.dw.com/en/donald-trump-hosts-xi-jinping-for-state-dinner-with-tech-titans/live-79404511",
+          "urlToImage": "https://static.dw.com/image/79420992_6.jpg",
+          "publishedAt": "2026-09-24T13:37:00Z",
+          "content": "Tesla CEO Elon Musk has dined with the Chinese president at least twice this year [FILE: May 14, 2026]Image: Evan Vucci/REUTERS\r\nApart from the heads of state and their spouses, the list of invitees … [+1254 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Pypi.org"
+          },
+          "author": "bouzidanas646@gmail.com",
+          "title": "fitcheck-llm 0.3.1",
+          "description": "Estimate LLM training and serving memory from model configs; measured training evidence covers one Tesla T4.",
+          "url": "https://pypi.org/project/fitcheck-llm/0.3.1/",
+          "urlToImage": null,
+          "publishedAt": "2026-09-24T13:07:53Z",
+          "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+          "source": {
+            "id": "fortune",
+            "name": "Fortune"
+          },
+          "author": "Nick Lichtenberg",
+          "title": "Exclusive: AJ Scaramucci comes out of stealth with a $350 million bet on ‘Programmable Reality’",
+          "description": "Scaramucci talked to Fortune about mentors including Peter Diamandis, Kai-Fu Lee and Eric Schmidt, along with dinosaur bones, AI and the \"cultural trade.\"",
+          "url": "https://fortune.com/2026/09/24/exclusive-aj-scaramucci-comes-out-of-stealth-with-a-350-million-bet-on-programmable-reality/",
+          "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/TAO_5048-1-e1790184378193.jpg?resize=1200,600",
+          "publishedAt": "2026-09-24T13:00:00Z",
+          "content": "For most of the last decade, AJ Scaramucci has built companies nobody outside his network was watching. He backed a bitcoin miner years before it became a Trump family venture. He wrote the first che… [+12709 chars]"
+        },
+        {
+          "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+          },
+          "author": null,
+          "title": "NASCAR Hall of Famer diagnosed with frontotemporal degeneration, possible CTE from racing",
+          "description": "Darrell Waltrip's family says the NASCAR Hall of Famer has been diagnosed with frontotemporal degeneration complicated by possible CTE from racing.",
+          "url": "https://www.foxnews.com/outkick-sports/nascar-hall-famer-diagnosed-frontotemporal-degeneration-possible-cte-racing",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/darrell-waltrip-clint-bowyer-sonoma-raceway.jpg",
+          "publishedAt": "2026-09-24T12:35:52Z",
+          "content": "NASCAR Hall of Famer Darrell Waltrip has been diagnosed with frontotemporal degeneration (FTD), complicated by possible chronic traumatic encephalopathy (CTE), according to a statement his family put… [+3431 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "investors.com",
+          "title": "Tesla Semi Joins Parade Of New Model Showcases; Stock Falls",
+          "description": "Tesla will have product demos for the Cybercab, Semi and new Roadster planned within the span of a month. The stock edged lower Thursday.\nThe post Tesla Semi Joins Parade Of New Model Showcases; Stock Falls appeared first on Investor's Business Daily.",
+          "url": "https://biztoc.com/x/b99af86026c601b3",
+          "urlToImage": "https://biztoc.com/cdn/996/og.png",
+          "publishedAt": "2026-09-24T12:21:35Z",
+          "content": "Tesla will have product demos for the Cybercab, Semi and new Roadster planned within the span of a month. The stock edged lower Thursday.The post Tesla Semi Joins Parade Of New Model Showcases; Stock… [+110 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "DIE WELT"
+          },
+          "author": "Diana Kupfer",
+          "title": "Software Defined Vehicle: Programming is better than competing",
+          "description": "Software Defined Vehicle: Programming is better than competing\n\nDiana Kupfer\n\nThu, 2026-09-24 08:03\n\n\n \n \n \n URL\r\n\n https://www.welt.de/motor/news/article6ab3d385174ceb992b6ed5aa/software-defined…\r\n\n \n\n \n Tags\r\n\n \n sdv\r\n\n eclipse sdv\r\n\n automotive",
+          "url": "https://www.welt.de/motor/news/article6ab3d385174ceb992b6ed5aa/software-defined-vehicle.html",
+          "urlToImage": "https://images.welt.de/6ab3d385174ceb992b6ed5aa/93a5149afcca6f26cddef877230edea4-master/ci16x9-w1200/software-wird-im-auto-immer-wichtiger-und-teurer",
+          "publishedAt": "2026-09-24T12:03:52Z",
+          "content": "Software wird zur Schlüsseltechnik des Autos. Trotzdem entwickeln Hersteller und Zulieferer Teile davon künftig gemeinsam. SP-X/Köln. BMW will bessere Autos bauen als Mercedes, Mercedes bessere als V… [+6302 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "Aastha Raj",
+          "title": "Jimmy Fallon turns Donald Trump’s airport welcome for Xi Jinping into an ‘Uber Trump’ ad, calls him 'perfect Uber driver'",
+          "description": "Jimmy Fallon's last night show was focused on Donald Trump and First Lady who went to welcome their Chinese counterparts at the airport base in Maryland. Fallon turned this action into a spoof advertisement mocking the US President for personally welcoming Xi…",
+          "url": "https://economictimes.indiatimes.com/news/international/us/jimmy-fallon-turns-donald-trumps-airport-welcome-for-xi-jinping-into-an-uber-trump-ad-calls-him-perfect-uber-driver/articleshow/134461098.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134461464,width-1200,height-630,imgsize-130824,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-24T11:52:26Z",
+          "content": "Comedian Jimmy Fallon has taken a jibe at US President Donald Trump as he went to welcome and pick up Chinese counterpart Xi Jinping from Base Andrews in Maryland on Wednesday night. He turned the pe… [+2257 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "9to5google.com"
+          },
+          "author": "Daniel Bader",
+          "title": "Oh no, here come the AI Tamagotchis",
+          "description": "Good morning. Today I’m watching yet another Fire Emblem: Fortune’s Weave review (watch this for context), getting started on my Booker Prize shortlist read-through, and reading as much as I can about Ella Langley’s “Choosin’ Texas” now that it’s the longest-…",
+          "url": "http://9to5google.com/2026/09/24/oh-no-here-come-the-ai-tamagotchis/",
+          "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/muse-charm-zuck-stage-1.png?resize=1200,628",
+          "publishedAt": "2026-09-24T11:00:00Z",
+          "content": "As a reminder, Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the we… [+7450 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BleepingComputer"
+          },
+          "author": "Sergiu Gatlan",
+          "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+          "description": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+          "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/24/TeamCity.jpg",
+          "publishedAt": "2026-09-24T10:42:37Z",
+          "content": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patche… [+2938 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "The New Republic"
+          },
+          "author": "Virginia Heffernan",
+          "title": "We Now Know the Word That’s Going to Bury Donald Trump This November",
+          "description": "It’s been two years since Donald Trump fell in love with the word groceries. He seemed to believe the word alone would convey his compassion for the common man. “The beautiful but simple word ‘groceries,’” he rhapsodized. “I won on that word.”Now we have a wo…",
+          "url": "https://newrepublic.com/article/215784/diesel-gas-prices-bury-trump-midterm-elections",
+          "urlToImage": "https://images.newrepublic.com/0d9698e59619f9644902bbe2e9d336215028e0c0.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+          "publishedAt": "2026-09-24T10:00:00Z",
+          "content": "The fuel used in heavy-duty trucks is named for the German engineer Rudolf Diesel. In 1894, Diesel invented a spark plugfree engine that requires a form of crude oil thats thicker than gasoline. Thes… [+1278 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Insurance Journal"
+          },
+          "author": "Admin",
+          "title": "Tesla’s Automated Driving System Often Misreads Speed Limits: Belgian Safety Group",
+          "description": "Tesla’s FSD automated-driving system frequently exceeded speed limits and attempted to overtake cyclists on streets where it’s prohibited, a road-safety advocacy group said, citing tests it conducted in Belgium. The Belgian group Johanna.be – which advocates …",
+          "url": "https://www.insurancejournal.com/news/international/2026/09/24/886660.htm",
+          "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/02/Tesla-logo-AdobeStock-scaled.jpeg",
+          "publishedAt": "2026-09-24T09:05:07Z",
+          "content": "Tesla’s FSD automated-driving system frequently exceeded speed limits and attempted to overtake cyclists on streets where it’s prohibited, a road-safety advocacy group said, citing tests it conducted… [+2803 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Crypto Briefing"
+          },
+          "author": "Editorial Team",
+          "title": "Trump and Xi discuss AI superpower ambitions amid global rivalry",
+          "description": "The US-China AI talks highlight the delicate balance between competition and cooperation, influencing global tech policies and market dynamics.\nThe post Trump and Xi discuss AI superpower ambitions amid global rivalry appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/trump-xi-ai-superpower-rivalry/",
+          "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24032056/chip-slump-erases-1-3-trillion-in-stock-market-value-reuters-138-800x420.jpeg",
+          "publishedAt": "2026-09-24T07:20:57Z",
+          "content": "The two leaders are meeting in Washington to talk artificial intelligence competition, cooperation, and safety protocols as the tech race intensifies The world’s two largest economies are sitting dow… [+3292 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "C21media.net"
+          },
+          "author": "jordanpinto871443",
+          "title": "PSKY may approach Elon Musk to raise extra funds for WBD deal – reports",
+          "description": "Paramount Skydance (PSKY) is reportedly considering approaching tech billionaire Elon Musk to raise additional financing as it prepares to complete its US$110bn acquisition of Warner Bros Discovery (WB...",
+          "url": "https://www.c21media.net/news/psky-may-approach-elon-musk-to-raise-extra-funds-for-wbd-deal-reports/",
+          "urlToImage": "https://cdn.c21media.net/wp-content/uploads/2026/09/elon-musk-cc-gage-skidmore-feat.jpg",
+          "publishedAt": "2026-09-24T07:08:02Z",
+          "content": "Paramount Skydance (PSKY) is reportedly considering approaching tech billionaire Elon Musk to raise additional financing as it prepares to complete its US$110bn acquisition of Warner Bros Discovery (… [+2504 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "Reuters",
+          "title": "How fast can China's EVs charge? Inside the race to 5-minute top-ups",
+          "description": "Chinese electric vehicle manufacturers, including Geely and BYD, are advancing ultra-fast charging technologies to enhance consumer confidence. These innovations aim to provide charging times comparable to traditional gasoline refueling, which is currently be…",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/how-fast-can-chinas-evs-charge-inside-the-race-to-5-minute-top-ups/articleshow/134454242.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134454360,width-1200,height-630,imgsize-74574,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-24T06:55:19Z",
+          "content": "Beijing: Chinese EV makers have another battleground in their quest for technological supremacy: ultra-fast charging.No longer satisfied with 30-minute top-ups, automakers such as Geely, BYD, and Li … [+3338 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BusinessLine"
+          },
+          "author": "Reuters",
+          "title": "Explained: How China’s EV makers are pushing charging times below 10 minutes",
+          "description": "Chinese EV makers are developing ultra-fast charging systems that can charge batteries to nearly full in under 10 minutes, but safety and grid challenges remain.",
+          "url": "https://www.thehindubusinessline.com/news/world/explained-how-chinas-ev-makers-are-pushing-charging-times-below-10-minutes/article71503017.ece",
+          "urlToImage": "https://bl-i.thgim.com/public/incoming/zbfjb/article71503021.ece/alternates/LANDSCAPE_1200/2026-09-08T070550Z_1313963503_RC21BNA1Y43N_RTRMADP_3_AUTO-DACIA-SPRING.JPG",
+          "publishedAt": "2026-09-24T06:32:41Z",
+          "content": "Chinese EV makers have\r\nanother battleground in their quest for technological supremacy:\r\nultra-fast charging.\r\nNo longer satisfied with 30-minute top-ups, automakers such\r\nas Geely, BYD, and Li Auto… [+3333 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Biztoc.com"
+          },
+          "author": "hollywoodreporter.com",
+          "title": "Is Elon Musk Paramount’s Next Big Investor?",
+          "description": "Paramount executives are exploring whether to ask Elon Musk for an investment in the studio, Semafor reported, citing unnamed sources, on Wednesday.\nThe Tesla founder has emerged as “one of a number of wealthy individuals that Paramount CEO David Ellison has …",
+          "url": "https://biztoc.com/x/614ca916bde848c0",
+          "urlToImage": "https://biztoc.com/cdn/614ca916bde848c0_s.webp",
+          "publishedAt": "2026-09-24T06:07:24Z",
+          "content": "Paramount executives are exploring whether to ask Elon Musk for an investment in the studio, Semafor reported, citing unnamed sources, on Wednesday.The Tesla founder has emerged as one of a number of… [+160 chars]"
+        },
+        {
+          "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+          },
+          "author": "Emily Baker",
+          "title": "'Heed the warning': NSW premier urges caution with AI after data breach",
+          "description": "The NSW premier has urged the world to listen to the warnings of artificial intelligence bosses about the technology's potential dangers, after a state dataset found it could be vulnerable to exploitation.",
+          "url": "https://www.abc.net.au/news/2026-09-24/nsw-premier-chris-minns-ai-warning-after-data-breach/107189678",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/4be1495e47f4573c9933c5c191efd384?impolicy=wcms_watermark_news&cropH=946&cropW=1682&xPos=122&yPos=32&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-09-24T05:30:17Z",
+          "content": "The NSW premier has urged the world to heed the warnings of artificial intelligence bosses about the technology's potential dangers, after a state dataset found it could be vulnerable to exploitation… [+3717 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Prtimes.jp"
+          },
+          "author": null,
+          "title": "太陽光の余剰電力を売らずに、自宅のTeslaへ自動充電！スマホHEMS「Nature Remo E / E2」に新機能「スマートEV充電 for Tesla」を追加",
+          "description": "[Nature株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/19285/181/19285-181-8226bc605c4d1c72c19bb2d06b40d02d-3900x2496.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "url": "https://prtimes.jp/main/html/rd/p/000000181.000019285.html",
+          "urlToImage": "https://prcdn.freetls.fastly.net/release_image/19285/181/19285-181-8226bc605c4d1c72c19bb2d06b40d02d-3900x2496.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "publishedAt": "2026-09-24T05:00:00Z",
+          "content": "Nature Nature2026924HEMS1Nature Remo E / E2 / EV for Tesla2TeslaEVTesla300\r\n1HEMSHome Energy Management System\r\n2\r\nNatureHEMSNature Remo E / E2IoT\r\nNatureNature Remo E / E2TeslaEV for Tesla\r\nEV for T… [+775 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "Reuters",
+          "title": "Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds",
+          "description": "A Belgian advocacy group has reported that Tesla's Full Self-Driving system often breaches speed limits and cycling regulations. The group, Johanna.be, conducted tests over 400 km in two urban areas and found significant violations. Despite the system's capab…",
+          "url": "https://economictimes.indiatimes.com/news/international/business/teslas-supervised-self-driving-system-often-misreads-speed-limits-belgian-safety-group-finds/articleshow/134451384.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-134451500,width-1200,height-630,imgsize-58120,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-09-24T04:29:52Z",
+          "content": "Tesla's FSD automated-driving system frequently exceeded speed limits and attempted to overtake cyclists on streets where it's prohibited, a road-safety advocacy group said, citing tests it conducted… [+2870 chars]"
+        },
+        {
+          "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+          },
+          "author": "Jamie McKinnell",
+          "title": "CCTV shows murder accused buying bag to allegedly dispose of body with",
+          "description": "A jury has been shown footage of former Sydney police officer Beau Lamarre-Condon buying a surfboard bag prior to the alleged murders of Jesse Baird and Luke Davies, which prosecutors allege he planned to use to dispose of Mr Baird's body.",
+          "url": "https://www.abc.net.au/news/2026-09-24/double-murder-trial-beau-lamarre-condon-shows-cctv-surfboard-bag/107190038",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d0b6472cac59a5bf1ad6d62d2fd4db29?impolicy=wcms_watermark_news&cropH=441&cropW=784&xPos=583&yPos=15&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-09-24T03:39:49Z",
+          "content": "A jury has been shown footage of former Sydney police officer Beau Lamarre-Condon buying a surfboard bag prior to the alleged murders of Jesse Baird and Luke Davies, which prosecutors allege he plann… [+3106 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Economictimes.com"
+          },
+          "author": "Economic Times",
+          "title": "Live Updates: Trump-Xi leave for Washington after ornate welcome",
+          "description": "US President Donald Trump and Chinese President Xi Jinping have departed Joint Base Andrews for Washington DC after Trump welcomed Xi with a red-carpet ceremony and military flyover. The leaders are set to begin a three-day state visit, with Treasury Secretar…",
+          "url": "https://m.economictimes.com/news/newsblogs/trump-xi-jinping-china-meeting-us-live-updates-september-24-weather-today-india-gst-label-food-company-bjp-congress-cec-sir/liveblog/134449591.cms",
+          "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-134449591,width-1200,height-900,resizemode-4,imglength-3216609/news/newsblogs/trump-xi-jinping-china-meeting-us-live-updates-september-24-weather-today-india-gst-label-food-company-bjp-congress-cec-sir.jpg",
+          "publishedAt": "2026-09-24T02:20:00Z",
+          "content": "US President Donald Trump said top technology and banking executives will attend the White House state dinner for Chinese President Xi Jinping on Thursday, bringing some of the biggest names in Ameri… [+969 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Dailymail.com"
+          },
+          "author": "Stephen M. Lepore",
+          "title": "Creator of AOC's infamous Tax the Rich dress owes more than $1million for A-list gala featuring Meghan Markle",
+          "description": "Aurora James helped make headlines when the left-wing Congresswoman appeared in the gown, on request from longtime Vogue boss Anna Wintour, who ordered a designer to 'dress AOC for the Met.'",
+          "url": "https://www.dailymail.com/news/article-16156007/Creator-AOC-met-gala-dress-sued.html",
+          "urlToImage": "https://i.dailymail.com/1s/2026/09/24/02/111434473-0-image-a-13_1790212443023.jpg",
+          "publishedAt": "2026-09-24T01:29:23Z",
+          "content": "The woman who made Alexandria Ocasio-Cortez's famous 'Tax the Rich' dress at the 2021 Met Gala is being sued for failing to pay party planners over $1million.\r\nAurora James helped make headlines when… [+5025 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNET"
+          },
+          "author": "Aaron Pruner",
+          "title": "Black Workers Allege Systemic Racism at Tesla as Landmark California Trial Begins",
+          "description": "State regulators presented evidence of unaddressed discrimination, wage disparities and hostile conditions on the EV maker’s Fremont assembly line.",
+          "url": "https://www.cnet.com/news/tesla-civil-rights-trial-racism-black-workers-california/",
+          "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/tesla-logo-stop-sign-GettyImages-1550685452.jpg",
+          "publishedAt": "2026-09-24T01:02:47Z",
+          "content": "Tesla is facing a major civil rights lawsuit due to years of alleged rampant racist behavior against dozens of Black employees at its flagship Fremont assembly factory in California.\r\nDuring opening … [+2212 chars]"
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "totalResults": 61,
+      "articles": [
+        {
+          "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+          },
+          "author": "Cat Zakrzewski, Ian Duncan",
+          "title": "Who attended the White House dinner for Chinese leader Xi Jinping? - washingtonpost.com",
+          "description": "AI executives and some of the country’s most prominent CEOs were on the list for the state dinner honoring Xi Jinping, which showcased the complex ties between the world’s two largest economies.",
+          "url": "https://www.washingtonpost.com/politics/2026/09/24/who-is-attending-white-house-dinner-chinese-leader-xi-jinping/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AAHXWPUK4PK5PZVFZJSSUMO6JE.JPG&w=1440",
+          "publishedAt": "2026-09-25T05:05:00Z",
+          "content": "Government officials, AI executives and some of the countrys most prominent CEOs gathered in the White House East Room on Thursday night for a state dinner honoring Chinese leader Xi Jinping, capping… [+133 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNBC"
+          },
+          "author": "Reuters",
+          "title": "U.S. government seeks to join Elon Musk in challenge against EU's fine on X - cnbc.com",
+          "description": "The U.S. formally sought to join Elon Musk’s legal challenge against an EU fine imposed on his social media platform X.",
+          "url": "https://www.cnbc.com/2026/09/25/us-government-seeks-to-join-musk-in-challenge-against-eus-fine-on-x.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/108020197-1723632641567-gettyimages-1564897605-AA_30072023_1291304.jpeg?v=1765177680&w=1920&h=1080",
+          "publishedAt": "2026-09-25T03:24:00Z",
+          "content": "The U.S. government said on Thursday it had formally sought to join a legal challenge filed by billionaire Elon Musk to dismiss a fine of 120 million ($137 million) by the European Union against his … [+1674 chars]"
+        },
+        {
+          "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+          },
+          "author": "Andrew J. Hawkins",
+          "title": "Here’s the Tesla Semi… again - The Verge",
+          "description": "Tesla re-launched its long-delayed Semi truck with a new list of customers who plan to use the heavy-duty EV for freight delivery.",
+          "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+          "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Semi_77.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "publishedAt": "2026-09-25T02:12:00Z",
+          "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres the Tesla Semi again\r\nThe long-delayed truck is finally in production and reaching customers this week. Now Tesla has to prove that it was worth the wait.\r… [+9552 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "KOIN.com"
+          },
+          "author": "KOIN.com",
+          "title": "Portland coffee company backs out of plan to open free cafe in Gaza - KOIN.com",
+          "description": null,
+          "url": "https://www.koin.com/news/portland/portland-coffee-company-backs-out-of-plan-to-open-free-cafe-in-gaza/",
+          "urlToImage": null,
+          "publishedAt": "2026-09-25T01:25:37Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Twz.com"
+          },
+          "author": "Joseph Trevithick",
+          "title": "An SR-71 Blackbird Has Vanished (Updated) - TWZ",
+          "description": "The head of NASA recent teased a new X-plane with an image that recalled the iconic Blackbird. Now one is missing.",
+          "url": "https://www.twz.com/air/a-sr-71-blackbird-has-vanished",
+          "urlToImage": "https://www.twz.com/wp-content/uploads/2026/09/SR71-NASA.jpg?w=1200",
+          "publishedAt": "2026-09-25T00:43:52Z",
+          "content": "The TWZ Newsletter\r\nWeekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.\r\nLast week, NASA Administrator Jared Isaacman cryptically teased plan… [+8065 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Variety"
+          },
+          "author": "Todd Spangler",
+          "title": "12 Takeaways From Ousted Disney CEO Bob Chapek’s New Book - Variety",
+          "description": "Variety obtained a copy of former Disney CEO Bob Chapek's new book, in which he talks about his ouster, Bob Iger and more.",
+          "url": "https://variety.com/2026/film/news/takeaways-bob-chapek-book-ousted-disney-ceo-1236875084/",
+          "urlToImage": "https://variety.com/wp-content/uploads/2026/09/Bob-Chapek.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-09-25T00:42:00Z",
+          "content": "Bob Chapek expounds at length about his termination from Disney and his belief that ex-CEO Bob Iger stabbed him in the back in his forthcoming book, “Behind the Castle Walls.”\r\nChapek, in recounting … [+13634 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "KOMO News"
+          },
+          "author": "KOMO News Staff, Claire Weber, KOMO News Reporter",
+          "title": "Alaska Airlines expanding service at Paine Field in Everett - KOMO",
+          "description": "Alaska also plans to increase service between Paine Field and Los Angeles to twice daily. Both flights will use larger Boeing 737 aircraft.",
+          "url": "https://komonews.com/news/local/alaska-airlines-expands-service-paine-field-airport-everett-50-percent-more-seats-new-san-jose-flights-boeing-737-west-coast-travel-more-capacity",
+          "urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/e5ab0f25-4d6a-4efb-a9dc-1fda3be39a93-alaska_air_inaugural_paine_field_everett_flight.jpg",
+          "publishedAt": "2026-09-25T00:35:57Z",
+          "content": "EVERETT, Wash. Travelers flying out of Paine Field will have more options starting this fall as Alaska Airlines prepares to increase its seat capacity at the Everett airport by 50%.\r\nThe airline is g… [+3071 chars]"
+        },
+        {
+          "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+          },
+          "author": "Amy B Wang",
+          "title": "Nearly 170,000 pounds of raw meat recalled for false inspection labels - washingtonpost.com",
+          "description": "The affected products were produced before Sept. 22 and may have false USDA inspection labels that say “EST. 1363.”",
+          "url": "https://www.washingtonpost.com/nation/2026/09/24/nearly-170000-pounds-raw-meat-recalled-false-inspection-labels/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE5D2S5L7GOKDW7PWXAUGMZBN4_size-normalized.jpg&w=1440",
+          "publishedAt": "2026-09-25T00:01:29Z",
+          "content": "Nearly 170,000 pounds of raw meat products are being recalled because they were falsely labeled as having gone through federal inspection, according to the U.S. Department of Agriculture.\r\nNorth Caro… [+282 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Financial Times"
+          },
+          "author": null,
+          "title": "Oracle on the hook to pay data centre investors even if site has no electricity - Financial Times",
+          "description": "The tech group is responsible for ‘Project Jupiter’ payments despite force majeure notice on New Mexico project",
+          "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6\\\\u003d1",
+          "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47283fbd-3e2f-40bf-b8eb-cac713e7276a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+          "publishedAt": "2026-09-24T23:47:35Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BBC News"
+          },
+          "author": null,
+          "title": "X-planes: Are they needed in the new era of drones? - bbc.com",
+          "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+          "url": "https://www.bbc.com/news/articles/c9q92x359xdo",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
+          "publishedAt": "2026-09-24T23:03:53Z",
+          "content": "A mere 20 years later the X-15 rocket plane, a cylinder with tiny wings dropped from a B-52 bomber, flew to 6.7 times the speed of sound (4,520 mph) and the edge of space, paving the way for heat-res… [+43 chars]"
+        },
+        {
+          "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+          },
+          "author": "Marc Levy, Matthew Daly",
+          "title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid - apnews.com",
+          "description": "The Energy Department says it will spend almost $2 billion to try to squeeze more electricity out of the nation’s aging and stressed power grid. President Donald Trump's administration is stepping up efforts to avoid blackouts amid skyrocketing energy demand …",
+          "url": "https://apnews.com/article/energy-electricity-wright-power-grid-trump-447c7d80c93928712750710769a8ca43",
+          "urlToImage": "https://dims.apnews.com/dims4/default/7f50977/2147483647/strip/true/crop/8256x5501+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2F39%2Fa212617ae9e64390fda9f6243fa8%2F1a567948be0743b9bc871a6b4acedd98",
+          "publishedAt": "2026-09-24T22:44:00Z",
+          "content": "ALLENTOWN, Pa. (AP) The Energy Department said Thursday that it will spend almost $2 billion to try to squeeze more electricity out of the nations aging and stressed power grid, as President Donald T… [+5042 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "WSJ",
+          "title": "Costco Reports Higher Fourth-Quarter Profit, Revenue on Resilient Consumer Spending - WSJ",
+          "description": null,
+          "url": "https://www.wsj.com/business/earnings/costco-reports-higher-fourth-quarter-profit-as-sales-membership-fees-rise-4156cc4a",
+          "urlToImage": null,
+          "publishedAt": "2026-09-24T22:41:00Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "WSJ",
+          "title": "Exclusive | Jeff Bezos’ Blue Origin Is Fueled With $30 Billion of His Fortune - WSJ",
+          "description": null,
+          "url": "https://www.wsj.com/business/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-b7407e6e",
+          "urlToImage": null,
+          "publishedAt": "2026-09-24T22:41:00Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "WCVB Boston"
+          },
+          "author": "Veronica Haynes, Sharman Sacchetti",
+          "title": "Bargain-seekers flood store, Route 1 as Frugal Fannie’s closing sale begins - WCVB",
+          "description": "Heavy traffic was lined up along Route 1 in Westwood, Massachusetts, for the first day of Frugal Fannie's going-out-of-business sale.",
+          "url": "https://www.wcvb.com/article/frugal-fannies-closing-sale-draws-crowds-in-westwood/73870430",
+          "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/cdce235a-514d-4366-bd36-345b5c53932f.jpg?crop=1xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A*",
+          "publishedAt": "2026-09-24T21:39:16Z",
+          "content": "WESTWOOD, Mass.Heavy traffic lined Route 1 in Westwood, Massachusetts, as shoppers rushed to Frugal Fannie's for the first day of its going-out-of-business sale. \r\nFrugal Fannie's announced Wednesday… [+1896 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Jessica Toonkel, Cara Lombardo",
+          "title": "Exclusive | MGM Resorts Eyeing Bid for Barry Diller’s People Incorporated - WSJ",
+          "description": "Billionaire’s company, which has a stake in MGM, also owns titles including Food & Wine magazine",
+          "url": "https://www.wsj.com/business/hospitality/mgm-resorts-eyeing-bid-for-barry-dillers-people-incorporated-b506c037",
+          "urlToImage": "https://images.wsj.net/im-17655949/social",
+          "publishedAt": "2026-09-24T21:38:00Z",
+          "content": "MGM ResortsMGM-10.99%decrease; down pointing triangle\r\nis discussing making a bid to purchase Barry Dillers People Incorporated, which owns a roughly 27% stake in MGM, according to people familiar wi… [+358 chars]"
+        },
+        {
+          "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+          },
+          "author": "Geoffrey Morgan",
+          "title": "US Stock Futures Drop as Yields Climb Further, Oil Rises - Bloomberg.com",
+          "description": "Equities ended the day little changed, rebounding from early losses during a choppy session as focus lurched from worries about surging Treasury yields to reports of a possible US-Iran discussion about re-opening the Strait of Hormuz.",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-24/us-stock-futures-drop-as-yields-climb-further-oil-rises",
+          "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3mjwlHBJ.2o/v0/1200x800.jpg",
+          "publishedAt": "2026-09-24T20:09:46Z",
+          "content": "Equities ended the day little changed, rebounding from early losses during a choppy session as focus lurched from worries about surging Treasury yields to reports of a possible US-Iran discussion abo… [+365 chars]"
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "totalResults": 10,
+      "articles": [
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Lauren Forristal",
+          "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch",
+          "description": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI Research company Altera raised $9 million to build AI agents that can play video games alongside other player…",
+          "url": "https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+          "publishedAt": "2024-05-08T15:14:57Z",
+          "content": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.\r\nThe company announced Wednesday that it … [+6416 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Alex Wilhelm and Theresa Loconsolo",
+          "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch",
+          "description": "This morning on Equity, not only do we have good news for crypto founders, we're also digging into Akamai spending $450 million for API security firm Noname, and billion dollar deals from Wiz and Wayve.",
+          "url": "https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-942480316.jpg?resize=1200,835",
+          "publishedAt": "2024-05-08T15:01:51Z",
+          "content": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before, e… [+1599 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Alex Wilhelm",
+          "title": "Watch: When did iPads get as expensive as MacBooks?",
+          "description": "Would you switch out your MacBook for an iPad with an M4 chip and OLED display? With the increase in price, Apple seems to be arguing these are comparable but we’re curious to see if consumers will make the change.",
+          "url": "https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/ipad-noplay.png?resize=1200,675",
+          "publishedAt": "2024-05-08T14:52:26Z",
+          "content": "Apple’s iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good … [+1385 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Rebecca Bellan",
+          "title": "Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch",
+          "description": "Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions.  “You will see",
+          "url": "https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1142304853-a.jpg?resize=1200,675",
+          "publishedAt": "2024-05-08T14:41:36Z",
+          "content": "Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions. \r\nYou will see more member-exclusives coming up where members … [+4676 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Mike Butcher",
+          "title": "Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits | TechCrunch",
+          "description": "Checkfirst enables businesses to schedule inspectors based on geographical location and qualifications, in addition to allowing for remote inspections.",
+          "url": "https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Checkfirst-team.jpg?w=960",
+          "publishedAt": "2024-05-08T13:02:12Z",
+          "content": "Weve all seen them. The inspector with a clipboard, walking around a building, ticking off the last time the fire extinguishers were checked, or if all the lights are working. They work in the TICC (… [+3279 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Paul Sawers",
+          "title": "UK challenger bank Monzo nabs another $190M as US expansion beckons | TechCrunch",
+          "description": "Monzo has raised another $190 million, as the challenger bank looks to expand its presence internationally — particularly in the U.S.",
+          "url": "https://techcrunch.com/2024/05/08/uk-challenger-bank-monzo-nabs-another-190m-at-5-2b-valuation/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1259121938-e1715164252704.jpg?resize=1200,676",
+          "publishedAt": "2024-05-08T12:34:05Z",
+          "content": "Monzo has raised another £150 million ($190 million), as the challenger bank looks to expand its presence internationally particularly in the U.S.\r\nThe new round comes just two months after Monzo rai… [+1960 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Brian Heater",
+          "title": "iRobot names former Timex head Gary Cohen as CEO | TechCrunch",
+          "description": "iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive,",
+          "url": "https://techcrunch.com/2024/05/08/irobot-names-former-timex-head-gary-cohen-as-ceo/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-7.19.50 AM.jpg?resize=1200,919",
+          "publishedAt": "2024-05-08T12:22:30Z",
+          "content": "iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive, will be heading up the company, marking a maj… [+2120 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Devin Coldewey",
+          "title": "Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app | TechCrunch",
+          "description": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of",
+          "url": "https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/alphafold-3-deepmind.jpg?resize=1200,675",
+          "publishedAt": "2024-05-07T22:10:14Z",
+          "content": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of proteins. AlphaFold 3 is not only more accurate, b… [+7069 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Tim De Chant",
+          "title": "Mycocycle uses mushrooms to upcycle old tires and construction waste | TechCrunch",
+          "description": "The startup's fungi use their mycelium to consume oil-based rubbers and plastics, creating new bio-based materials in the process.",
+          "url": "https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1350655821.jpeg?resize=1200,796",
+          "publishedAt": "2024-05-07T18:07:09Z",
+          "content": "Usually, when something starts to rot, it gets pitched in the trash. But Joanne Rodriguez wants to turn the concept of rot on its head by growing fungus on trash to turn it into something better.\r\nWe… [+4229 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Kyle Wiggers",
+          "title": "Controversial drone company Xtend leans into defense with new $40M round | TechCrunch",
+          "description": "Xtend, a drone company heavily involved with defense customers, has raised a new round of capital to expand its operations.",
+          "url": "https://techcrunch.com/2024/05/08/controversial-drone-company-xtend-leans-into-defense/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/wildfire_drone_web.jpg?w=900",
+          "publishedAt": "2024-05-07T18:01:34Z",
+          "content": "Close to a decade ago, brothers Aviv and Matteo Shapira co-founded Replay, a company that created a video format for 360-degree replays — the sorts of replays that have become part and parcel of majo… [+5398 chars]"
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "totalResults": 25,
+      "articles": [
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Connor Hart",
+          "title": "General Mills Bets on New Products, Marketing to Drive Turnaround",
+          "description": "The maker of Cheerios and Annie’s macaroni and cheese posted a profit of $397 million in the fiscal first quarter, down from $1.2 billion a year earlier.",
+          "url": "https://www.wsj.com/business/retail/general-mills-profit-sales-slip-as-turnaround-continues-14bcb98a",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/8fa912eae8c32458dd85324c9e7d6eac50b5c8628a29aa3c5578059161ccc7ee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F2e9fc2ff20884544aa5d53026f9aa060.jpg",
+          "publishedAt": "2026-09-23T13:07:00Z",
+          "content": "General Mills reported lower profit and sales in its fiscal first quarter. - LISA BAERTLEIN/REUTERS\r\nGeneral Mills said its turnaround is progressing, slowly but surely.\r\nThe Cheerios and Pillsbury d… [+2228 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Alex Janin and Dominic Chopping",
+          "title": "Wegovy Maker Novo Promises New Drugs to Boost Sales, but Investors Are Wary",
+          "description": "Shares in the company fell more than 4% as its CEO laid out plans for new blockbuster drugs in the next few years.",
+          "url": "https://www.wsj.com/health/pharma/wegovy-maker-novo-nordisk-targets-several-new-blockbuster-drugs-in-coming-years-357fe9a3",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/5c14c08b86d69dd7b436ef3efee9b70d46104379832712fd0015ec0825a45deb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F6c61e69a5d3d1b08f5efb9f487a6f014.jpg",
+          "publishedAt": "2026-09-21T15:00:00Z",
+          "content": "Novo shares moved lower on Monday. - Nichlas Pollier/Bloomberg News\r\nNovo Nordisk Chief Executive Mike Doustdar, who took over in 2025 promising to find a sustainable growth path, said the company wi… [+4600 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Caitlin McCabe",
+          "title": "Stocks Climb as Markets Retrace Post-Fed Moves",
+          "description": "U.S. stocks jump as investors shake off the jitters that followed the Federal Reserve’s first rate increase in three years.",
+          "url": "https://www.wsj.com/finance/commodities-futures/stocks-rally-yields-fall-as-lower-oil-boosts-market-mood-e5c10b6c",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/2ce9b68ead2005e870d4c6c230847a2225f710ea64c8e275a339c608129aabb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F08eefef243a3eb891ec12121bc238399.jpg",
+          "publishedAt": "2026-09-17T14:22:00Z",
+          "content": "The Dow Jones Industrial average is enduring its worst start to September since 2008. - Jeenah Moon/Reuters\r\nU.S. stocks are jumping and Treasury yields are sliding Thursday morning, as investors sha… [+985 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Joseph Wilkins",
+          "title": "Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote",
+          "description": "Bitcoin traded at $75,877 in afternoon European trade, after falling around 4% a day earlier to as low as $75,026. A Fed rate hike could further weigh on cry...",
+          "url": "https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/260c1fcc6f69d77e68b42133611948ad550395bf503a760f8e78061bb303bd5e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F962da2c267b37fa03f15c9bd228d9ec9.jpg",
+          "publishedAt": "2026-09-16T11:58:00Z",
+          "content": "The digital currency fell Tuesday following the U.S. Senate's rejection of a crypto-friendly bill. - Tyrone Siu/Reuters\r\nBitcoin was trading at a near four-week low Wednesday as investors await the F… [+2614 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Emese Bartha",
+          "title": "Global Bond Selloff Deepens as 10-Year Yields Hit Multiyear Highs",
+          "description": "The 10-year U.S. Treasury yield hit its highest level since 2007 ahead of the U.S. Federal Reserve’s interest rate decision.",
+          "url": "https://www.wsj.com/finance/investing/u-s-10-year-treasury-yield-rises-to-highest-since-2007-91d1e44f",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/02d0e8a8c5a628e037fc3129f22df7f2ec333f4dd3554a8c69f80911b58be8ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F995e44f0f71683a1c773757e477aa28c.jpg",
+          "publishedAt": "2026-09-15T19:23:00Z",
+          "content": "The selloff in global bonds gained traction on Tuesday. - Brendan McDermid/Reuters\r\nThe selloff in global bonds gained traction on Tuesday, pushing the 10-year U.S. Treasury yield to its highest leve… [+3580 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Adrià Calatayud",
+          "title": "Novo Nordisk Slims Down Name to Novo",
+          "description": "The Wegovy maker is betting that a shorter name will help it resonate more with consumers as it competes with rival Eli Lilly.",
+          "url": "https://www.wsj.com/health/pharma/novo-nordisk-to-rebrand-as-novo-b22e363f",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/1bbd82526bc570271c65644eda3eec17f279a8e65181346d256ead3e2951baed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F71712402e19621cdfa261d3540655929.jpg",
+          "publishedAt": "2026-09-14T12:41:00Z",
+          "content": "The company said it would use the name Novo for its day-to-day operations. - Tom Little/Reuters\r\nWegovy maker Novo Nordisk is rebranding as Novo, betting a shorter name will help it resonate more wit… [+2761 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Gina Heeb",
+          "title": "Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management",
+          "description": "Rogo, which recently signed a new round of strategic investments, is already used by major investment banks.",
+          "url": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/6e5df22d328b9976cf8a552b047b0270354d2f5e5c4409cfb2c1fcc0b9cdc9d7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F443bf82a52a895ad71c5001526912a0e.jpg",
+          "publishedAt": "2026-09-10T11:00:00Z",
+          "content": "Rogo co-founders Tumas Rackaitis, Gabriel Stengel and John Willett. - Rogo\r\nAI has already started to take hold in the deals universe. Now a startup wants to use the technology to upend wealth manage… [+2217 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Jinjoo Lee",
+          "title": "The IPO That Asks You to Buy AI Hype Today and Get Paid Years Later",
+          "description": "SB Energy’s offering features $430 billion in data-center deals, no operating sites and a clause giving OpenAI free rent for delays.",
+          "url": "https://www.wsj.com/business/energy-oil/the-ipo-that-asks-you-to-buy-ai-hype-today-and-get-paid-years-later-1bd97731",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/b0f758213729e5e8e00524792987f16e57a58aaf67f37ae7401dc05f6d6ce29c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F8a8b25c5a35d6c7e123829b3a3ddba3f.jpg",
+          "publishedAt": "2026-09-10T09:30:00Z",
+          "content": "SoftBank Group is working to deliver a data-center-focused infrastructure project in Ohio. - Brian Kaiser/Bloomberg News\r\nThere are some eyebrow-raising details in the filing of SoftBank-backed SB En… [+4612 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Hannah Erin Lang and Vicky Ge Huang",
+          "title": "Robinhood Strikes Deal With Crypto.com in Latest Prediction-Markets Push",
+          "description": "The brokerage will add yes-or-no contracts from Crypto.com’s prediction business, and take a stake in the digital-currency exchange.",
+          "url": "https://www.wsj.com/finance/currencies/robinhood-strikes-deal-with-crypto-com-in-latest-prediction-markets-push-901a32aa",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/fa55634261789b92a123d5aea9aa783a4f13a2b2f89bd66d5a781feb93915423/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F69f13f20a37e4c8232f17c84e3fdb384.jpg",
+          "publishedAt": "2026-09-08T12:00:00Z",
+          "content": "Crypto.com is preparing for an initial public offering but hasn't announced a time frame. - Marco Bello/Reuters\r\nRobinhood Markets agreed to add Crypto.com's yes-or-no contracts to its trading platfo… [+3331 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Colin Kellaher",
+          "title": "Boston Scientific Won’t Meet Guidance Due to Cyberattack",
+          "description": "Boston Scientific said it likely won’t meet its financial guidance due to the cyberattack that has disrupted its operations, sending shares of the medical-te...",
+          "url": "https://www.wsj.com/business/boston-scientific-wont-meet-guidance-due-to-cyberattack-feb29ee1",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/7cb62888c4c6a15e85e434586803db7a849b694151fbaa46614ed346d6aeb973/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F83cbf52a7fedc5cec6d0903c6050ce0d.jpg",
+          "publishedAt": "2026-09-08T10:58:00Z",
+          "content": "Boston Scientific said it continues to make progress in restoring many of its systems that were affected by the hack. - Clodagh Kilcoyne/Reuters\r\nBoston Scientific said it likely won't meet its finan… [+1921 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Stephen Wilmot",
+          "title": "Range Rover Maker to Cut 4,000 Jobs as Trump’s Tariffs Bite",
+          "description": "Jaguar Land Rover faces headwinds from intensifying Chinese competition and U.S. tariffs and said that it must simplify its organization.",
+          "url": "https://www.wsj.com/business/autos/tata-motors-owned-jlr-plans-redundancy-program-as-it-targets-over-2b-in-savings-4f8fccdb",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/ffbc853ee596da7bce885cfd0309ee110ed972a7f3dacdda3ffe4fbf6a30a8ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fc4760014f1b41def7e89f9684e7fb16e.jpg",
+          "publishedAt": "2026-09-07T12:02:00Z",
+          "content": "JLR is targeting more than $2 billion of savings over the next two years. - Ronaldo Schemidt/AFP/Getty Images\r\nJaguar Land Rover is cutting 4,000 jobs as the automaker contends with President Trump's… [+3237 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "The Wall Street Journal",
+          "title": "China’s Foreign Exchange Reserves Continue to Climb",
+          "description": "China’s foreign-exchange reserves edged higher in August against the backdrop of a weaker dollar and a surging trade surplus, renewing concerns about the yua...",
+          "url": "https://www.wsj.com/economy/chinas-foreign-exchange-reserves-continue-to-climb-def2bb7d",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/24b5db080abcc339030d210762b69945fcb114eb6938b429a9f8f81ecb699f72/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fc2823df94a151a340f64ff50ff0e17db.jpg",
+          "publishedAt": "2026-09-07T09:18:00Z",
+          "content": "Monday's data came as policymakers worldwide weighed actions against inexpensive Chinese exports they say benefit from unfair government subsidies. - Jason Lee/Reuters\r\nChina's foreign-exchange reser… [+3658 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Giulia Petroni",
+          "title": "U.S. Retail Diesel Prices Hit Record High as Global Supply Tightens",
+          "description": "Diesel prices jumped to a fresh record high as prolonged disruptions in the Middle East and Russian refineries continued to tighten global supplies.",
+          "url": "https://www.wsj.com/business/energy-oil/u-s-retail-diesel-prices-hit-record-high-as-global-supply-tightens-c6a22603",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/18de13e9fb7baf945e2826a285beec0bbc89cba6d4e99bd9b47436962c185987/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F7f4b5fcee227cba03d852f98687ec304.jpg",
+          "publishedAt": "2026-09-04T09:12:00Z",
+          "content": "Disruptions are prompting more buyers to turn to the U.S., raising demand and lifting the value of the fuel. - Lauren Owens Lambert/Reuters\r\nU.S. diesel prices jumped to a fresh record high as prolon… [+1984 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Joe Stonor and Joe Wallace",
+          "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
+          "description": "The Dutch central bank said shifting the 78 metric tons of gold, worth $11 billion, would improve its ability to trade the metal in a pinch.",
+          "url": "https://www.wsj.com/economy/central-banking/netherlands-moves-gold-from-new-york-to-london-citing-geopolitical-unrest-7a095eb8",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/f127ff8c72cc35ea7a8877771070f718fa73f3a1e46593e53ea4e9194554aa50/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fcf6b391d054ee377a8ecccfca184b4a0.jpg",
+          "publishedAt": "2026-09-03T14:50:00Z",
+          "content": "The bank didn't specify what it meant by geopolitical unrest. - david gray/Agence France-Presse/Getty Images\r\nThe Dutch central bank shifted the location of 78 metric tons of gold, worth $11 billion … [+5155 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Joe Stonor",
+          "title": "Bond Selloff Pauses, Stocks Tread Water as Traders Watch for Yen Intervention",
+          "description": "Equity markets moved sideways in early European trade as investors were on alert for further currency intervention after the Japanese yen surged against the...",
+          "url": "https://www.wsj.com/finance/stocks/bond-selloff-pauses-stocks-tread-water-as-traders-watch-for-yen-intervention-25a7e983",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/3191709b224b1313543bc734f219ac18b11933a3b2fb0450bdfd495a32162e41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F1a1e7f8b9f88551e82b46f529b9654ef.jpg",
+          "publishedAt": "2026-09-03T08:39:00Z",
+          "content": "Investors will watch for Friday's nonfarm payroll data and whether Japan will intervene to support its currency. - Michael M. Santiago/Getty Images\r\nThe global selloff in sovereign debt paused and eq… [+2275 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Sherry Qin",
+          "title": "Japanese Yen Strengthens Amid Intervention Chatter",
+          "description": "The Japanese yen strengthened to a one-month high against the dollar, amid chatter that authorities could again intervene in foreign-exchange markets.",
+          "url": "https://www.wsj.com/finance/currencies/japanese-yen-strengthens-amid-intervention-chatter-1fe5ad1d",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/01a8c1dc202fd3caf79c29d52052d0bc71880c760727dce7444e336ea9ef0dcb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F5f65c8c68454a87e1870d2a68c8b1546.jpg",
+          "publishedAt": "2026-09-03T08:23:00Z",
+          "content": "A sharp appreciation of the yen in New York trade on Wednesday sparked some speculation that Japanese authorities checked on currency rates. - Philip Fong/Agence France-Presse/Getty Images\r\nThe Japan… [+2936 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Rolfe Winkler",
+          "title": "OpenAI Hits Back at Apple Lawsuit Claiming It Stole Trade Secrets",
+          "description": "The ChatGPT-maker says many of the accusations boil down to poor offboarding procedures inside the iPhone maker.",
+          "url": "https://www.wsj.com/tech/openai-hits-back-at-apple-lawsuit-claiming-it-stole-trade-secrets-c0d34f44",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/0f5146f831bc819f7cabc43e0a96b83c24ba68b1689c7974dd5272e420d06066/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fc06421283d65cafa7ecac36a75d28068.jpg",
+          "publishedAt": "2026-09-01T15:29:00Z",
+          "content": "OpenAI CEO Sam Altman sat beside Apple's then-CEO, Tim Cook, at a White House dinner with tech leaders in September. - Will Oliver/Bloomberg News\r\nOpenAI hit back at Apple after the iPhone-maker accu… [+3544 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Miriam Mukuru",
+          "title": "U.K. Government Bond Yields Surge to Multiyear Highs",
+          "description": "Yields on 30-year U.K. government bonds soared to their highest level since 1998, while 10-year yields hit their highest since 2008, mirroring trends in glob...",
+          "url": "https://www.wsj.com/economy/global/global-bond-yields-surge-as-oil-prices-fuel-inflation-worries-ef5c0192",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/c9e8a13ddce3ffca2c48489870dd47c151bf36bd2c9b13032eccd86d7e1b6f98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F9cb02b2002b06f1f5af1427fed2fa4d6.jpg",
+          "publishedAt": "2026-09-01T13:11:00Z",
+          "content": "Federal Reserve Chairman Kevin Warsh's comments at the Jackson Hole symposium have pushed yields higher. - Brendan McDermid/Reuters\r\nYields on 30-year U.K. government bonds soared to their highest le… [+2131 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Farhan Rafid",
+          "title": "U.S. Stock Futures Little Changed as Markets Weigh Warsh’s Hawkish Remarks",
+          "description": "The Federal Reserve Chairman said inflation remained too high and that better readings this summer hadn’t convinced him that underlying trends had meaningful...",
+          "url": "https://www.wsj.com/finance/investing/u-s-stock-futures-little-changed-as-markets-weigh-warshs-hawkish-remarks-5a036994",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/d34e62acaf0ed67d3d3d3dd7ead03e92ec8924efeae9bb568c02edf6e0c77dc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fa5a0989402be336c83a0f2aa672bb923.jpg",
+          "publishedAt": "2026-08-31T11:42:00Z",
+          "content": "Market pricing now implies about a 60% chance of a Fed rate increase in September, Capital Economics said. - Jeenah Moon/Reuters\r\nU.S. stock futures and Treasury yields were little changed in Europea… [+1719 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Connor Hart",
+          "title": "GameStop Expects Higher Profit Despite Lower Sales",
+          "description": "The videogame retailer said it expects second-quarter profit to climb, boosted by investment gains from its stake in eBay, but said sales likely fell from a...",
+          "url": "https://www.wsj.com/business/earnings/gamestop-expects-higher-profit-despite-lower-sales-9fceb2a2",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/03daf96d49c435441aee1920da336d4d5192825febff0743792000df2404f3dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F729d7663659bfb10fdc0028f0b087aa7.jpg",
+          "publishedAt": "2026-08-31T11:08:00Z",
+          "content": "GameStop issued preliminary second-quarter earnings, expecting net income to climb even as sales fall. - Brandon Bell/Getty Images\r\nGameStop expects second-quarter profit to climb, boosted by investm… [+2164 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Carol Ryan",
+          "title": "The World’s Drinks Order Is In. Distillers Were Expecting More.",
+          "description": "It’s the corporate equivalent of ordering too much alcohol for a party where half the guests turn out to be dry. Except with billions of dollars at stake.",
+          "url": "https://www.wsj.com/business/retail/the-worlds-drinks-order-is-in-distillers-were-expecting-more-8ad379b3",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/278d103b4148b2de3565c1d7b7fab7dc07924f3f84f75f8f8b5272347276f713/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F5f4efc316f02b7484be93a007f8bdefd.jpg",
+          "publishedAt": "2026-08-30T12:00:00Z",
+          "content": "Barrels of cognac in a cellar in southwest France. U.S. tariffs on EU imports are hurting European distillers with high exposure to the U.S. market. - christophe archambault/AFP/Getty Images\r\nIt's th… [+5460 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Caitlin McCabe",
+          "title": "Stocks Lower as Fed’s Warsh Comments Boost Rate-Hike Bets",
+          "description": "U.S. stocks were mixed after Fed Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/75e3c6f579b186562cd7171fdf26a61abecae8e59a4774adb4118be11e70c08b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F83be4f1b66f57f4ae82a013a3457f79b.jpg",
+          "publishedAt": "2026-08-28T18:11:00Z",
+          "content": "Investors are set to hang on Warsh's words for clues to the central bank's rate-setting path. - David Paul Morris/Bloomberg News\r\nFederal Reserve Chairman Kevin Warsh signaled the central bank may no… [+1303 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Emese Bartha",
+          "title": "Global Bond Yields Rise Ahead of Fed’s Warsh Speech; 10-Year Bund Yield Hits 15-Year High",
+          "description": "Treasury yields rose ahead of the Fed Chair’s speech, while 10-year Bund yields increased to a 15-year high as eurozone bonds remained vulnerable to elevated...",
+          "url": "https://www.wsj.com/finance/investing/global-bond-yields-rise-ahead-of-feds-warsh-speech-10-year-bund-yield-hits-15-year-high-c7ac0da3",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/ddf38f3df273fe0da96b13fd7a09264f1216f657882a9ab671155d69549b2e40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fb45308adfada5af61ca099be2bc7f5e4.jpg",
+          "publishedAt": "2026-08-28T09:27:00Z",
+          "content": "Grand Teton National Park near the site of the Federal Reserve Bank of Kansas City's Jackson Hole event. All eyes were on the symposium, particularly Warsh's keynote speech. - Jim Urquhart/Reuters\r\nU… [+3051 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Joshua Kirby",
+          "title": "Jameson Maker Pernod Ricard Warns of Sales Hit as Americans Ease Off on Drinking",
+          "description": "The distiller said fading interest in boozing in the U.S. would continue to weigh on sales, offsetting growing enthusiasm in newer drinking markets.",
+          "url": "https://www.wsj.com/business/retail/pernod-ricard-warns-weak-u-s-drinking-to-keep-clipping-sales-growth-45a92af3",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/22bb4469098111080cee37ab6b869c8bafbca830313f74096303be44c0163e36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2F6ab18ae6190227c0f9cba09458495885.jpg",
+          "publishedAt": "2026-08-27T13:14:00Z",
+          "content": "India has developed a thirst for whiskies, with local brand Royal Stag and imported Jameson both selling well, Pernod Ricard said. - clodagh kilcoyne/Reuters\r\nPernod Ricard said fading interest in bo… [+4668 chars]"
+        },
+        {
+          "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+          },
+          "author": "Caitlin McCabe",
+          "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
+          "description": "The Nasdaq declined as chip stocks started the week under pressure. The Dow industrials edged higher.",
+          "url": "https://www.wsj.com/finance/investing/nasdaq-futures-tech-stocks-slide-as-u-s-canada-trade-war-in-focus-22023ea9",
+          "urlToImage": "https://s.yimg.com/lo/mysterio/api/66768B3BC15AD2D61865F42160151D389D8F86249AAE42454363B528A80D0261/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fdd3bfed141db70be30ae9b7b441ebc24.jpg",
+          "publishedAt": "2026-08-24T14:00:00Z",
+          "content": "- Michael M. Santiago/Getty Images\r\nA retreat in oil prices is offering relief to bond yields as investors await details on Washington's stepped-up economic pressure campaign against Iran.\r\nTreasury … [+929 chars]"
+        }
+      ]
+    }
+  ]
+}
