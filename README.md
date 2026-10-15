@@ -203,10 +203,7 @@ Contributions and suggestions are welcome.
 4. Commit your changes with a descriptive message.
 5. Open a pull request.
 
-## 📄 License
-
-Choose a license before distributing the project. If you intend to make it open source, consider adding an appropriate license file to the repository.
-
+ 
 ---
 
 **Built with React, JavaScript, Tailwind CSS, and NewsAPI.**
